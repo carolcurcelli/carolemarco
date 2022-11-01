@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+html, body {
+    width: 100%;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+input, button, textarea {
+	font-family: inherit;
+}
+
+img {
+	border: none;
+	max-width: 100%;
+}
+
+a {
+	color: #167bf7;
+	display: inline-block;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+strong {
+    font-weight: bold;
+}

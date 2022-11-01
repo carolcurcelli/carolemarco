@@ -1,0 +1,74 @@
+html, body {
+	font-family: 'Roboto', sans-serif;
+}
+
+body ::-webkit-scrollbar {
+	width: 5px;
+}
+
+::-webkit-scrollbar-track {
+	background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+	background: #888; 
+}
+	
+::-webkit-scrollbar-thumb:hover {
+	background: #555; 
+}
+
+/* CONTAINER */
+
+.container {
+	padding-right: 16px;
+	padding-left: 16px;
+}
+
+@media (min-width: 550px) {
+	.container {
+		padding-right: 25px;
+		padding-left: 25px;
+	}
+}
+
+@media (min-width: 750px) {
+	.container {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+}
+
+@media (min-width: 1000px) {
+	.container {
+		padding-right: 40px;
+		padding-left: 40px;
+		max-width: 1280px; 
+	}
+}
+
+@media(min-width: 1280px) {
+	.container {
+		padding-right: 0;
+		padding-left: 0;
+		margin-left: auto;
+		margin-right: auto;
+		width: 1200px;
+	}
+}
+
+/* LINKS & BUTTONS */
+
+a,
+button {
+    transition:.3s;
+}
+
+a:hover,
+button:hover {
+    opacity:.5;
+}
+
+b {
+	font-weight: 600;
+}
