@@ -26,9 +26,8 @@
             return `Faltam 
                     ${monthsToWedding} mese${monthsToWedding == 1 ? '' : 's'},
                     ${daysToWedding} dia${daysToWedding == 1 ? '' : 's'},
-                    ${hoursToWedding} hora${hoursToWedding == 1 ? '' : 's'},
-                    ${minutesToWedding} minuto${minutesToWedding == 1 ? '' : 's'},
-                    ${secondsToWedding} segundo${secondsToWedding == 1 ? '' : 's'}`
+                    ${hoursToWedding} hora${hoursToWedding == 1 ? '' : 's'} e 
+                    ${minutesToWedding} minuto${minutesToWedding == 1 ? '' : 's'}`
         } else if (
             today == 'September 9, 2023 10:30:00' 
             && today == 'September 9, 2023 17:00:00') { 
