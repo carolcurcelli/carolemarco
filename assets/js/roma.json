@@ -32,14 +32,14 @@
         "image": "https://images.pexels.com/photos/1809616/pexels-photo-1809616.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Reviveremos a grandeza do Império Romano visitando o Coliseu, o Fórum Romano e subindo o Monte Palatino para ver onde Roma foi fundada.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Museus do Vaticano",
         "image": "https://images.pexels.com/photos/326709/pexels-photo-326709.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Visitaremos os Museus do Vaticano, Capela Sistina e Basílica de São Pedro em um tour de 3 horas. Veremos arte clássica, afrescos de Michelangelo e a maior igreja católica do mundo. O passeio termina na Praça de São Pedro.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "3"
     },
     {
         "name": "Um bom jantar",
