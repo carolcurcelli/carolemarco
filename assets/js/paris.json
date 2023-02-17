@@ -103,12 +103,5 @@
         "description": "Experimentar a alta gastronomia francesa em um restaurante estrelado, acompanhado de vinho e sobremesa, em um ambiente charmoso e romântico.",
         "value": "372,00",
         "stock": "6"
-    },
-    {
-        "name": "Bons drinks",
-        "image": "http://pt.packingmysuitcase.com/wp-content/uploads/2016/02/IMG_8340-660x495.jpg",
-        "description": "Tomar um drink em Saint-Germain-dés-Prés é uma experiência autêntica em Paris, onde a cultura e a elegância se encontram em um ambiente descontraído e sofisticado.",
-        "value": "200,00",
-        "stock": "1"
     }
 ]

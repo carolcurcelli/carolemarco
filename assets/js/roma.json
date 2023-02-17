@@ -56,13 +56,6 @@
         "stock": "3"
     },
     {
-        "name": "Panini",
-        "image": "https://images.pexels.com/photos/15506675/pexels-photo-15506675.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Comer um autêntico panini em Roma é uma experiência deliciosa e prática. Escolha o pão, o recheio e aprecie a mistura de sabores locais, tudo por um preço acessível em um ambiente informal e descontraído.",
-        "value": "100,00",
-        "stock": "4"
-    },
-    {
         "name": "Gelato",
         "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
