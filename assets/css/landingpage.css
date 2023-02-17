@@ -159,6 +159,20 @@ h3 {
     margin-top: .3em;
 }
 
+h4 {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.subtitle {
+    font-size: .8rem;
+}
+
+.subtitle:before {
+    content: '📍 ';
+    font-size: .7rem;
+}
+
 .small {
     font-size: .8rem;
     margin-top: .5em;
