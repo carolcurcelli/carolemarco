@@ -3,70 +3,70 @@
         "name": "Passagens",
         "image": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
-        "value": "1750,00",
-        "stock": "2"
+        "value": "3.500,00",
+        "stock": "1"
     },
     {
         "name": "Hospedagem",
-        "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Hospedagem para 6 noites em Paris no Best Western Hotel Victor Hugo. A hospedagem é de um quarto clássico com cama de casal e dá direito a café da manhã.",
-        "value": "20,00",
-        "stock": "1"
+        "image": "https://images.trvl-media.com/lodging/1000000/70000/68600/68512/858324ad.jpg",
+        "description": "Hospedagem para 7 noites em Paris no Best Western Hotel Victor Hugo. A hospedagem é de um quarto clássico com cama de casal e dá direito a café da manhã.",
+        "value": "2.147,85",
+        "stock": "7"
     },
     {
         "name": "Transporte",
         "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Translado privativo do Aeroporto Paris CDG ao hotel no centro de Paris.",
-        "value": "20,00",
+        "value": "1.654,00",
         "stock": "1"
     },
     {
         "name": "Big Bus",
         "image": "https://global-uploads.webflow.com/5d98599ba491dd290226f10f/60e63c79192c6e14e398857a_Hop%20on%20Hop%20Off%20Bus%20Paris.jpg",
         "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
-        "value": "20,00",
-        "stock": "2"
+        "value": "562,40",
+        "stock": "1"
     },
     {
         "name": "Torre Eiffel",
-        "image": "https://images.pexels.com/photos/1488315/pexels-photo-1488315.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "https://images.pexels.com/photos/739407/pexels-photo-739407.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
-        "value": "20,00",
+        "value": "830,20",
         "stock": "1"
     },
     {
         "name": "Passeio pelo Rio Sena",
         "image": "https://f7j8i5n9.stackpathcdn.com/wp-content/uploads/2016/08/RioSenaemParis.png",
         "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
-        "value": "20,00",
+        "value": "200,00",
         "stock": "1"
     },
     {
         "name": "Jardins de Monet",
         "image": "https://revistanatureza.com.br/wp-content/uploads/2017/03/1-1.jpg",
         "description": "Teremos 2 horas para descobrir a casa de Monet, o seue stúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
-        "value": "20,00",
+        "value": "1.000,00",
         "stock": "1"
     },
     {
         "name": "Louvre",
         "image": "https://images.pexels.com/photos/2675266/pexels-photo-2675266.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Entrada prioritária para o Louvre, onde conheceremos um acervo de 35 mil obras expostas como Venus de Milo, A Vitória de Samothrace, O Escriba Sentado, Os Touros Alados e, obviamente, Mona Lisa.",
-        "value": "20,00",
+        "value": "670,50",
         "stock": "1"
     },
     {
         "name": "Palácio de Versalhes",
         "image": "https://images.pexels.com/photos/4845973/pexels-photo-4845973.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Poderemos visitar o suntuoso Palácio de Versalhes e admirar a arquitetura barroca, jardins exuberantes, espelhos d'água e rica decoração de ouro e mármore.",
-        "value": "20,00",
+        "value": "1.200,00",
         "stock": "1"
     },
     {
         "name": "Eurodisney",
         "image": "https://images.pexels.com/photos/3428287/pexels-photo-3428287.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "A EuroDisney é um parque temático que oferece uma variedade de atrações emocionantes. Com montanhas-russas, shows e desfiles de personagens famosos, é o grande sonho da Carol visitar.",
-        "value": "20,00",
+        "value": "2.100,00",
         "stock": "1"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
         "name": "Um bom jantar",
-        "image": "https://images.pexels.com/photos/9220890/pexels-photo-9220890.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jacques_Lameloise%2C_escab%C3%A8che_d%27%C3%A9crevisses_sur_gaspacho_d%27asperge_et_cresson.jpg",
         "description": "Experimentar a alta gastronomia francesa em um restaurante estrelado, acompanhado de vinho e sobremesa, em um ambiente charmoso e romântico.",
         "value": "372,00",
         "stock": "6"

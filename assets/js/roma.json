@@ -3,42 +3,42 @@
         "name": "Passagens",
         "image": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Passagens de avião para Marco e Carol de Roma para São Paulo, pela Italian Airways, em cabines econômicas.",
-        "value": "1750,00",
-        "stock": "2"
+        "value": "3.500,00",
+        "stock": "1"
     },
     {
         "name": "Hospedagem",
-        "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Hospedagem para 7 noites em Roma no MZ Hotel Rome. A hospedagem é de um quarto superior com cama de queen e dá direito a café da manhã.",
-        "value": "20,00",
-        "stock": "1"
+        "image": "https://mz-hotel-rome.booked.net/data/Photos/OriginalPhoto/11682/1168283/1168283095/Mz-Hotel-Rome-Exterior.JPEG",
+        "description": "Hospedagem para 6 noites em Roma no MZ Hotel Rome. A hospedagem é de um quarto superior com cama de queen e dá direito a café da manhã.",
+        "value": "2.385,75",
+        "stock": "6"
     },
     {
         "name": "Transporte",
         "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Translado privativo do Aeroporto de Fiumicino FCO ao hotel no centro de Roma.",
-        "value": "20,00",
+        "value": "550,00",
         "stock": "1"
     },
     {
         "name": "Hop-on, Hop-off",
         "image": "https://d3iso9mq9tb10q.cloudfront.net/citylandingherocomp/image/Big-Bus-Tours_Rome_Big-Bus_at_Colosseum_desktop_4.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
-        "value": "20,00",
+        "value": "346,00",
         "stock": "1"
     },
     {
         "name": "Roma Imperial",
         "image": "https://images.pexels.com/photos/1809616/pexels-photo-1809616.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Reviveremos a grandeza do Império Romano visitando o Coliseu, o Fórum Romano e subindo o Monte Palatino para ver onde Roma foi fundada.",
-        "value": "20,00",
+        "value": "835,00",
         "stock": "1"
     },
     {
         "name": "Museus do Vaticano",
         "image": "https://images.pexels.com/photos/326709/pexels-photo-326709.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Visitaremos os Museus do Vaticano, Capela Sistina e Basílica de São Pedro em um tour de 3 horas. Veremos arte clássica, afrescos de Michelangelo e a maior igreja católica do mundo. O passeio termina na Praça de São Pedro.",
-        "value": "20,00",
+        "value": "900,00",
         "stock": "3"
     },
     {
@@ -84,7 +84,7 @@
         "stock": "1"
     },
     {
-        "name": "Jardins",
+        "name": "Laranjais",
         "image": "https://www.repstatic.it/content/localirep/img/rep-roma/2016/04/22/175143446-1aad2aa8-c887-49c4-955b-94bc13245e0f.jpg",
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
