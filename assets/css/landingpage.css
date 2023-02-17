@@ -288,6 +288,11 @@ footer {
     font-size: 2rem;
 }
 
+.gift__quantity {
+    display: block;
+    font-size: .8em;
+}
+
 .gift .button {
     margin-top: .5em;
 }
@@ -301,6 +306,20 @@ footer {
 .bank-info {
     list-style-type: none;
     text-align: center;
+}
+
+.bank-info__wrapper {
+    border: solid 1px;
+    display: block;
+    width: fit-content;
+    max-width: 30em;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.bank-info__wrapper h3 {
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .gift.--bought {
