@@ -1,57 +1,71 @@
 [
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
-        "value": "20,00",
-        "stock": "0"
+        "name": "Passagens",
+        "image": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "value": "7413,32",
+        "stock": "1"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Hospedagem",
+        "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Hospedagem para 6 noites em Paris no Best Western Hotel Victor Hugo. A hospedagem é de um quarto clássico com cama de casal e dá direito a café da manhã.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Transporte",
+        "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Translado privativo do Aeroporto Paris CDG ao hotel no centro de Paris.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
-        "value": "20,00",
-        "stock": "10"
-    },
-    {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Big Bus",
+        "image": "https://global-uploads.webflow.com/5d98599ba491dd290226f10f/60e63c79192c6e14e398857a_Hop%20on%20Hop%20Off%20Bus%20Paris.jpg",
+        "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
         "value": "20,00",
         "stock": "10"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Torre Eiffel",
+        "image": "https://images.pexels.com/photos/1488315/pexels-photo-1488315.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
         "value": "20,00",
         "stock": "10"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Passeio pelo Rio Sena",
+        "image": "https://f7j8i5n9.stackpathcdn.com/wp-content/uploads/2016/08/RioSenaemParis.png",
+        "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
         "value": "20,00",
         "stock": "10"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "name": "Jardins de Monet",
+        "image": "https://revistanatureza.com.br/wp-content/uploads/2017/03/1-1.jpg",
+        "description": "Teremos 2 horas para descobrir a casa de Monet, o seue stúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
+        "value": "20,00",
+        "stock": "10"
+    },
+    {
+        "name": "Louvre",
+        "image": "https://images.pexels.com/photos/2675266/pexels-photo-2675266.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Entrada prioritária para o Louvre, onde conheceremos um acervo de 35 mil obras expostas como Venus de Milo, A Vitória de Samothrace, O Escriba Sentado, Os Touros Alados e, obviamente, Mona Lisa.",
+        "value": "20,00",
+        "stock": "10"
+    },
+    {
+        "name": "Palácio de Versalhes",
+        "image": "https://images.pexels.com/photos/4845973/pexels-photo-4845973.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Poderemos visitar o suntuoso Palácio de Versalhes e admirar a arquitetura barroca, jardins exuberantes, espelhos d'água e rica decoração de ouro e mármore.",
+        "value": "20,00",
+        "stock": "10"
+    },
+    {
+        "name": "Eurodisney",
+        "image": "https://images.pexels.com/photos/3428287/pexels-photo-3428287.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "A EuroDisney é um parque temático que oferece uma variedade de atrações emocionantes. Com montanhas-russas, shows e desfiles de personagens famosos, é o grande sonho da Carol visitar.",
         "value": "20,00",
         "stock": "10"
     }
