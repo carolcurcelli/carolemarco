@@ -18,7 +18,7 @@ nav {
     backdrop-filter: blur(12px);
     z-index: 20;
     background-color: rgb(230 238 243 / 12%);
-    border-bottom: 1px solid rgb(226 233 248);
+    border-bottom: 1px solid rgb(229, 229, 229);
     box-shadow: 0 26px 42px rgb(158 185 207 / 10%);
 }
 
@@ -275,6 +275,8 @@ footer {
     width: 16em;
     max-width: 100%;
     margin: 1em auto 2em;
+    background-size: cover;
+    background-position: center;
 }
 
 .gift__wrapper {
@@ -295,6 +297,10 @@ footer {
 
 .gift .button {
     margin-top: .5em;
+}
+
+.gift > p {
+    height: 14em;
 }
 
 .number-list {
@@ -342,6 +348,19 @@ footer {
 .nav__list .nav__item:nth-child(4) {
     pointer-events: none;
     opacity: .5;
+}
+
+.destination {
+    margin: 1em 0;
+}
+
+.destination:after {
+    content: '';
+    display: block;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, #042b31 0%, #042b31 40%, #fff 40%, #fff 60%, #042b31 60%, #042b31 100%);
+    margin-top: -.7em;
 }
 
 @media(min-width: 750px) {
