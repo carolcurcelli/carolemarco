@@ -78,13 +78,13 @@
     },
     {
         "name": "Duolingo",
-        "image": "https://instagram.fcgh9-1.fna.fbcdn.net/v/t51.2885-15/287261394_4796331763804263_6212912513060684637_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fcgh9-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cLp9t9czaFoAX91EmLc&tn=XVlzSGO3y9x05tQI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA_cjEa7MpWohrh5NgY5mzZneUmC89vYMON__HiyBsREg&oe=63F3EFFE&_nc_sid=86f79a",
+        "image": "https://carolemarco.com.br/assets/carol.jpg",
         "description": "Carol está muito empenhada em aprendeu francês no Duolingo, e seu futuro esposo gostaria de pagar a mensalidade para que ela fique praticamente fluente até o dia da viagem.",
         "value": "100,00",
         "stock": "1"
     },
     {
-        "name": "Vinho em Montmartre",
+        "name": "Montmartre",
         "image": "https://images.pexels.com/photos/15506675/pexels-photo-15506675.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Tomar vinho em Montmartre é uma experiência inesquecível, apreciando a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
         "value": "120,00",
@@ -105,7 +105,7 @@
         "stock": "6"
     },
     {
-        "name": "Saint-Germain-dés-Prés",
+        "name": "Bons drinks",
         "image": "http://pt.packingmysuitcase.com/wp-content/uploads/2016/02/IMG_8340-660x495.jpg",
         "description": "Tomar um drink em Saint-Germain-dés-Prés é uma experiência autêntica em Paris, onde a cultura e a elegância se encontram em um ambiente descontraído e sofisticado.",
         "value": "200,00",

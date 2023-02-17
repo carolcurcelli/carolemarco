@@ -25,7 +25,7 @@
         "image": "https://d3iso9mq9tb10q.cloudfront.net/citylandingherocomp/image/Big-Bus-Tours_Rome_Big-Bus_at_Colosseum_desktop_4.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "20,00",
-        "stock": ""
+        "stock": "1"
     },
     {
         "name": "Roma Imperial",
@@ -77,9 +77,9 @@
         "stock": "1"
     },
     {
-        "name": "Curiosidades do Marco",
-        "image": "https://instagram.fcgh9-1.fna.fbcdn.net/v/t51.2885-15/315312239_832071401371336_2128184264723323805_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fcgh9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=amU_x5i0cb8AX8VJ7CR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBf-rZw9je_Wm3SEIZyxDPbznwH5g_hYuUrUK8NeLw-9w&oe=63F4DB19&_nc_sid=8fd12b",
-        "description": "Encarar seu esposo, Marco, contando fatos curiosos pela cidade de Roma seria como fazer uma viagem no tempo, mas com um professor um pouco excêntrico. Talvez eu precise de um vinho.",
+        "name": "Curiosidades",
+        "image": "https://carolemarco.com.br/assets/carol.jpg",
+        "description": "Encarar seu esposo, Marco, contando fatos curiosos pela cidade de Roma seria como fazer uma viagem no tempo, mas com um professor um pouco excêntrico. Talvez Carol precise de um vinho.",
         "value": "100,00",
         "stock": "1"
     },
@@ -91,7 +91,7 @@
         "stock": "1"
     },
     {
-        "name": "Jardins dos Laranjais",
+        "name": "Jardins",
         "image": "https://www.repstatic.it/content/localirep/img/rep-roma/2016/04/22/175143446-1aad2aa8-c887-49c4-955b-94bc13245e0f.jpg",
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
