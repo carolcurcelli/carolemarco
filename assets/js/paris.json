@@ -25,48 +25,83 @@
         "image": "https://global-uploads.webflow.com/5d98599ba491dd290226f10f/60e63c79192c6e14e398857a_Hop%20on%20Hop%20Off%20Bus%20Paris.jpg",
         "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "2"
     },
     {
         "name": "Torre Eiffel",
         "image": "https://images.pexels.com/photos/1488315/pexels-photo-1488315.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Passeio pelo Rio Sena",
         "image": "https://f7j8i5n9.stackpathcdn.com/wp-content/uploads/2016/08/RioSenaemParis.png",
         "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Jardins de Monet",
         "image": "https://revistanatureza.com.br/wp-content/uploads/2017/03/1-1.jpg",
         "description": "Teremos 2 horas para descobrir a casa de Monet, o seue stúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Louvre",
         "image": "https://images.pexels.com/photos/2675266/pexels-photo-2675266.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Entrada prioritária para o Louvre, onde conheceremos um acervo de 35 mil obras expostas como Venus de Milo, A Vitória de Samothrace, O Escriba Sentado, Os Touros Alados e, obviamente, Mona Lisa.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Palácio de Versalhes",
         "image": "https://images.pexels.com/photos/4845973/pexels-photo-4845973.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Poderemos visitar o suntuoso Palácio de Versalhes e admirar a arquitetura barroca, jardins exuberantes, espelhos d'água e rica decoração de ouro e mármore.",
         "value": "20,00",
-        "stock": "10"
+        "stock": "1"
     },
     {
         "name": "Eurodisney",
         "image": "https://images.pexels.com/photos/3428287/pexels-photo-3428287.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "A EuroDisney é um parque temático que oferece uma variedade de atrações emocionantes. Com montanhas-russas, shows e desfiles de personagens famosos, é o grande sonho da Carol visitar.",
         "value": "20,00",
+        "stock": "1"
+    },
+    {
+        "name": "Docinhos franceses",
+        "image": "https://images.pexels.com/photos/3776947/pexels-photo-3776947.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
+        "value": "120,00",
         "stock": "10"
+    },
+    {
+        "name": "Vinho em Montmartre",
+        "image": "https://images.pexels.com/photos/15506675/pexels-photo-15506675.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Tomar vinho em Montmartre é uma experiência inesquecível, apreciando a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
+        "value": "120,00",
+        "stock": "2"
+    },
+    {
+        "name": "Piquenique",
+        "image": "https://images.pexels.com/photos/1956974/pexels-photo-1956974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Um programa imperdível, cercado pela beleza dos jardins e parques, como o Jardim de Luxemburgo e o Champ de Mars, enquanto se delicia com os sabores dos queijos, pães, e vinhos.",
+        "value": "400,00",
+        "stock": "1"
+    },
+    {
+        "name": "Um bom jantar",
+        "image": "https://images.pexels.com/photos/9220890/pexels-photo-9220890.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Experimentar a alta gastronomia francesa em um restaurante estrelado, acompanhado de vinho e sobremesa, em um ambiente charmoso e romântico.",
+        "value": "372,00",
+        "stock": "6"
+    },
+    {
+        "name": "Saint-Germain-dés-Prés",
+        "image": "http://pt.packingmysuitcase.com/wp-content/uploads/2016/02/IMG_8340-660x495.jpg",
+        "description": "Tomar um drink em Saint-Germain-dés-Prés é uma experiência autêntica em Paris, onde a cultura e a elegância se encontram em um ambiente descontraído e sofisticado.",
+        "value": "200,00",
+        "stock": "1"
     }
 ]

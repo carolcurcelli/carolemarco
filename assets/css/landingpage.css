@@ -320,7 +320,7 @@ footer {
     width: fit-content;
     max-width: 30em;
     padding: 1em;
-    margin: 0 auto;
+    margin: 0 auto 1em;
 }
 
 .bank-info__wrapper h3 {

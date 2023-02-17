@@ -25,7 +25,7 @@
         "image": "https://d3iso9mq9tb10q.cloudfront.net/citylandingherocomp/image/Big-Bus-Tours_Rome_Big-Bus_at_Colosseum_desktop_4.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "20,00",
-        "stock": "10"
+        "stock": ""
     },
     {
         "name": "Roma Imperial",
@@ -35,24 +35,73 @@
         "stock": "10"
     },
     {
-        "name": "Vaticano",
+        "name": "Museus do Vaticano",
         "image": "https://images.pexels.com/photos/326709/pexels-photo-326709.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Visitaremos os Museus do Vaticano, Capela Sistina e Basílica de São Pedro em um tour de 3 horas. Veremos arte clássica, afrescos de Michelangelo e a maior igreja católica do mundo. O passeio termina na Praça de São Pedro.",
         "value": "20,00",
         "stock": "10"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
-        "value": "20,00",
-        "stock": "10"
+        "name": "Um bom jantar",
+        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Um jantar em um bom restaurante em Roma seria uma experiência incrível, com uma atmosfera romântica, pratos tradicionais italianos e vinhos deliciosos.",
+        "value": "372,00",
+        "stock": "6"
     },
     {
-        "name": "Café da manhã",
-        "image": "https://images.pexels.com/photos/917510/pexels-photo-917510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit purus semper, pulvinar est vitae, ullamcorper nisl. Sed sem eros, porta vitae consectetur sit amet, consequat vitae justo. ",
-        "value": "20,00",
-        "stock": "10"
+        "name": "Autêntica pizza",
+        "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Comer pizza em Roma é uma experiência autêntica e deliciosa. A massa fina e crocante, o molho de tomate fresco e os ingredientes selecionados são uma combinação perfeita.",
+        "value": "200,00",
+        "stock": "3"
+    },
+    {
+        "name": "Panini",
+        "image": "https://images.pexels.com/photos/15506675/pexels-photo-15506675.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Comer um autêntico panini em Roma é uma experiência deliciosa e prática. Escolha o pão, o recheio e aprecie a mistura de sabores locais, tudo por um preço acessível em um ambiente informal e descontraído.",
+        "value": "100,00",
+        "stock": "4"
+    },
+    {
+        "name": "Gelato",
+        "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
+        "value": "50,00",
+        "stock": "7"
+    },
+    {
+        "name": "Piquenique",
+        "image": "https://images.pexels.com/photos/1956974/pexels-photo-1956974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
+        "value": "400,00",
+        "stock": "1"
+    },
+    {
+        "name": "Rio Tibre",
+        "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
+        "value": "260,00",
+        "stock": "1"
+    },
+    {
+        "name": "Jardins dos Laranjais",
+        "image": "https://www.repstatic.it/content/localirep/img/rep-roma/2016/04/22/175143446-1aad2aa8-c887-49c4-955b-94bc13245e0f.jpg",
+        "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
+        "value": "260,00",
+        "stock": "1"
+    },
+    {
+        "name": "Fontana di Trevi",
+        "image": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1534844151306/shutterstock-500306767_destinationMain_1534844211417.jpeg",
+        "description": "Um passeio noturno na Fontana di Trevi em Roma é uma experiência romântica e inesquecível. As luzes acesas realçam a beleza da fonte, tornando-a ainda mais impressionante à noite. Podemos jogar uma moedinha!",
+        "value": "600,00",
+        "stock": "1"
+    },
+    {
+        "name": "Bicicletas em Monti",
+        "image": "https://cdn.getyourguide.com/img/tour/5c388236c01f7.jpeg/146.jpg",
+        "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
+        "value": "200,00",
+        "stock": "1"
     }
 ]
