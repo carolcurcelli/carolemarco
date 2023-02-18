@@ -86,7 +86,21 @@ nav > .container {
 
 h1 {
     font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Homemade Apple', cursive;
     font-size: 4rem;
+    text-align: center;
+    line-height: .8;
+    margin: .5em 0;
+}
+
+h1 span {
+    display: block;
+    color: transparent;
+    background-image: url(../img/heart.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: .1em;
 }
 
 .hero img {

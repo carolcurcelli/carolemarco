@@ -44,7 +44,7 @@
     {
         "name": "Jardins de Monet",
         "image": "https://revistanatureza.com.br/wp-content/uploads/2017/03/1-1.jpg",
-        "description": "Teremos 2 horas para descobrir a casa de Monet, o seue stúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
+        "description": "Teremos 2 horas para descobrir a casa de Monet, o seu estúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
         "value": "1.000,00",
         "stock": "1"
     },
@@ -86,7 +86,7 @@
     {
         "name": "Montmartre",
         "image": "https://images.pexels.com/photos/15506675/pexels-photo-15506675.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Tomar vinho em Montmartre é uma experiência inesquecível, apreciando a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
+        "description": "É possível apreciar a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
         "value": "120,00",
         "stock": "2"
     },
