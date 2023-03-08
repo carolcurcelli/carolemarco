@@ -9,11 +9,10 @@
 		<link rel="stylesheet" href="assets/css/base.css">
 		<link rel="stylesheet" href="assets/css/landingpage.css">
 		<link rel="canonical" href="https://marcoecarol.com.br/">
-        
 		<link rel="icon" type="image/png" href="assets/img/heart.png">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Homemade+Apple&display=swap" rel="stylesheet">
 		<meta property="og:locale" content="pt_BR">
 		<meta property="og:description" content="Marco & Carol | 09/09/2023">
 		<meta property="og:title" content="Marco & Carol | 09/09/2023">
@@ -25,36 +24,25 @@
 		<meta name="twitter:card" content="summary_large_image">
 	</head>
     <body>
-        
-    </body>
-    <nav>
-        <section class="container">
-            <a href="/">
-                <img src="assets/img/logo.png" class="nav__logo" alt="">
-            </a>
-            <img src="assets/img/menu.svg" id="menuOpener" alt="">
-            <ul class="nav__list menu">
-                <li class="nav__item">
-                    <a href="/nossa-historia">Nossa história</a>
-                </li>
-                <li class="nav__item">
-                    <a href="/#address">Endereço</a>
-                </li>
-                <li class="nav__item">
-                    <a href="/presentes">Presentes</a>
-                </li>
-                <li class="nav__item">
-                    <a href="/rsvp">RSVP</a>
-                </li>
-                <li class="nav__item">
-                    <a href="/#messages">Mensagens</a>
-                </li>
-                <li id="close">
-                    <img src="assets/img/close.svg" alt="">
-                </li>
-            </ul>
-        </section>
-    </nav>
+        <nav id="navigation">
+            <section class="container">
+                <a href="/">
+                    <img src="assets/img/logo.png" class="nav__logo" alt="">
+                </a>
+                <img src="assets/img/menu.svg" id="menuOpener" alt="">
+                <div id="menu__space"></div>
+            </section>
+        </nav>
+        <div id="close">
+            <img src="assets/img/close.svg" alt="">
+        </div>
+        <script>
+            fetch('navigation.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#menu__space').innerHTML = html;
+              });
+        </script>
     <main>
         <section class="hero --inner-page">
             <div class="container --text">
