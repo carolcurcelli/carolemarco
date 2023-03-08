@@ -358,12 +358,6 @@ audio {
     max-width: 100%;
 }
 
-.nav__list .nav__item:nth-child(3),
-.nav__list .nav__item:nth-child(4) {
-    pointer-events: none;
-    opacity: .5;
-}
-
 .destination {
     margin: 1em 0;
 }
