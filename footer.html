@@ -1,0 +1,10 @@
+<footer id="footer">
+    <p>Marco & Carol | 09/09/2023</p>
+    <p>R. Conselheiro Cotegipe, 933 - Belenzinho, São Paulo - SP, 03058-000</p>
+</footer>
+
+<script>
+    const template = document.querySelector('#footer');
+    const clone = document.importNode(template.content, true);
+    document.querySelector('#footer__space').appendChild(clone);
+</script>
