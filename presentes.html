@@ -79,18 +79,15 @@
                 <ul class="wishlist"></ul>
             </div>
         </section>
-        <section class="babies">
-            <div class="container">
-                <img src="assets/img/petruchio.png" class="petruchio" alt="">
-                <img src="assets/img/polly.png" class="polly" alt="">
-                <p>Petruchio e Polly aprovam essa união!</p>
-            </div>
-        </section>
     </main>
-    <footer>
-        <p>Marco & Carol | 09/09/2023</p>
-        <p>R. Conselheiro Cotegipe, 933 - Belenzinho, São Paulo - SP, 03058-000</p>
-    </footer>
-    <script src="assets/js/menu.js"></script>
-    <script src="assets/js/presents.js"></script>
+    <footer id="footer__space"></nav>
+        <script>
+            fetch('footer.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#footer__space').innerHTML = html;
+              });
+          </script>
+        <script src="assets/js/menu.js"></script>
+    </body>
 </html>
