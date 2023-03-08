@@ -377,8 +377,23 @@ audio {
     margin-top: -.7em;
 }
 
+#close {
+    display: none;
+}
+
+.--open #close {
+    position: absolute;
+    height: 3em;
+    width: 3em;
+    right: 1em;
+}
+
+.--open #close img {
+    width: 3em;
+}
+
 @media(min-width: 750px) {
-    #menuOpener, #close {
+    #menuOpener, #close, .--open #close {
         display: none;
     }
     .menu {
