@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://img.shields.io/github/languages/code-size/carolsvntos/carolemarco">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fqualproximoferiado.com.br/%2F">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcarolemarco.com.br/%2F">
   <img src="https://img.shields.io/github/stars/carolsvntos/carolemarco?style=social">
   <img src="https://img.shields.io/twitter/follow/carolsvntos?style=social">
   <br /><br /><br /><br />
 </div>
 <div align="center">
-  <img src="https://qualproximoferiado.com.br/assets/img/favicon.png" width="200">
-  <h1 align="center">Próximo Feriado</h3>
-  <p>Próximo Feriado é um projeto que informa qual o próximo feriado nacional no Brasil</p>
+  <img src="https://carolemarco.com.br/assets/img/heart.png" width="200">
+  <h1 align="center">Carol & Marco</h3>
+  <p>Site do casamento de Marco e Carol, dia 9 de setembro de 2023</p>
   <p>
-    <a href="https://qualproximoferiado.com.br/">Confira aqui!</a>
+    <a href="https://carolemarco.com.br/">Confira aqui!</a>
     ·
     <a href="https://github.com/carolsvntos/carolemarco/issues">Report Bug</a>
     ·
