@@ -25,12 +25,18 @@
 		<meta name="twitter:card" content="summary_large_image">
 	</head>
     <body>
-        <nav id="navigation__space"></nav>
+        <nav id="navigation">
+            <ul class="menu__space">
+                <li id="close">
+                    <img src="assets/img/close.svg" alt="">
+                </li>
+            </ul>
+        </nav>
         <script>
             fetch('navigation.html')
               .then(response => response.text())
               .then(html => {
-                document.querySelector('#navigation__space').innerHTML = html;
+                document.querySelector('#menu__space').innerHTML = html;
               });
           </script>
         <main>
