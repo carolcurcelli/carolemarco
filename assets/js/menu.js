@@ -10,6 +10,11 @@
     menuCloser.addEventListener('click', function(){
         dom.classList.remove('--open');
     });
+    if (dom.classList.contains('--open')){
+        dom.addEventListener('click', function(){
+            dom.classList.remove('--open');
+        });
+    }
     for (let i = 0; i < menuItem.length; i++) {
         menuItem[i].addEventListener('click', function(){
             dom.classList.remove('--open');

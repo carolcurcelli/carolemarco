@@ -388,10 +388,12 @@ audio {
 }
 
 .--open #close {
-    position: absolute;
+    display:block;
+    position: fixed;
     height: 3em;
     width: 3em;
     right: 1em;
+    top: 2em;
 }
 
 .--open #close img {
