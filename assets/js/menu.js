@@ -1,4 +1,5 @@
 (function () {
+    const menu = document.querySelector('#menu')
     const menuOpener = document.querySelector('#menuOpener');
     const menuCloser = document.querySelector('#close');
     const dom = document.querySelector('html');
@@ -11,7 +12,7 @@
         dom.classList.remove('--open');
     });
     if (dom.classList.contains('--open')){
-        dom.addEventListener('click', function(){
+        menu.addEventListener('click', function(){
             dom.classList.remove('--open');
         });
     }
