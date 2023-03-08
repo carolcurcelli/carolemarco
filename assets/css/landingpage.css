@@ -443,11 +443,9 @@ audio {
         max-width: 50vw;
         background: #fcfbfa;
     }
-    .address .hero.--inner-page .container {
-
-    }
     .hero.--inner-page {
         background-image: url(../img/flowers-left.png), url(../img/flowers-right.png);
         background-position: left top, right top;
+        background-attachment: fixed;
     }
 }
