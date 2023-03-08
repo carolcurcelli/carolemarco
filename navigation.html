@@ -1,0 +1,36 @@
+<nav id="navigation">
+    <section class="container">
+        <a href="/">
+            <img src="assets/img/logo.png" class="nav__logo" alt="">
+        </a>
+        <img src="assets/img/menu.svg" id="menuOpener" alt="">
+        <ul class="nav__list menu">
+            <li class="nav__item">
+                <a href="#history">Nossa história</a>
+            </li>
+            <li class="nav__item">
+                <a href="#address">Endereço</a>
+            </li>
+            <li class="nav__item">
+                <a href="/presentes">Presentes</a>
+            </li>
+            <li class="nav__item">
+                <a href="/rsvp">RSVP</a>
+            </li>
+            <li class="nav__item">
+                <a href="#messages">Mensagens</a>
+            </li>
+            <li id="close">
+                <img src="assets/img/close.svg" alt="">
+            </li>
+        </ul>
+    </section>
+</nav>
+
+<nav id="navigation__space"></nav>
+
+<script>
+    const template = document.querySelector('#navigation');
+    const clone = document.importNode(template.content, true);
+    document.querySelector('#navigation__space').appendChild(clone);
+</script>
