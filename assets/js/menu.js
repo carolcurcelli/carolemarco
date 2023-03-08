@@ -12,9 +12,10 @@
         dom.classList.remove('--open');
     });
     if (dom.classList.contains('--open')){
-        menu.addEventListener('click', function(){
+        console.log('teste');
+        ​document.onclick = function(){
             dom.classList.remove('--open');
-        });
+        }​
     }
     for (let i = 0; i < menuItem.length; i++) {
         menuItem[i].addEventListener('click', function(){
