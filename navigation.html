@@ -33,10 +33,10 @@
     document.querySelector('#navigation__space').appendChild(clone);
 
     (function () {
-        const menuOpener = clone.querySelector('#menuOpener');
-        const menuCloser = clone.querySelector('#close');
+        const menuOpener = document.querySelector('#navigation #menuOpener');
+        const menuCloser = document.querySelector('#navigation #close');
         const dom = document.querySelector('html');
-        const menuItem = clone.querySelectorAll('.nav__item');
+        const menuItem = document.querySelectorAll('#navigation .nav__item');
 
         menuOpener.addEventListener('click', function(){
             dom.classList.add('--open');
