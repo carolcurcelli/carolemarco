@@ -1,25 +1,53 @@
-<ul class="nav__list menu" id="menu">
-    <li class="nav__item">
-        <a href="#history">Nossa história</a>
-    </li>
-    <li class="nav__item">
-        <a href="#address">Endereço</a>
-    </li>
-    <li class="nav__item">
-        <a href="/presentes">Presentes</a>
-    </li>
-    <li class="nav__item">
-        <a href="/rsvp">RSVP</a>
-    </li>
-    <li class="nav__item">
-        <a href="#messages">Mensagens</a>
-    </li>
-</ul>
+<nav id="navigation">
+    <section class="container">
+        <a href="/">
+            <img src="assets/img/logo.png" class="nav__logo" alt="">
+        </a>
+        <img src="assets/img/menu.svg" id="menuOpener" alt="">
+        <ul class="nav__list menu">
+            <li class="nav__item">
+                <a href="#history">Nossa história</a>
+            </li>
+            <li class="nav__item">
+                <a href="#address">Endereço</a>
+            </li>
+            <li class="nav__item">
+                <a href="/presentes">Presentes</a>
+            </li>
+            <li class="nav__item">
+                <a href="/rsvp">RSVP</a>
+            </li>
+            <li class="nav__item">
+                <a href="#messages">Mensagens</a>
+            </li>
+            <li id="close">
+                <img src="assets/img/close.svg" alt="">
+            </li>
+        </ul>
+    </section>
+</nav>
 
 <script>
-    const template = document.querySelector('#menu');
+    const template = document.querySelector('#navigation');
     const clone = document.importNode(template.content, true);
-    document.querySelector('#menu__space').appendChild(clone);
-</script>
+    document.querySelector('#navigation__space').appendChild(clone);
 
-<script src="assets/js/menu.js"></script>
+    (function () {
+        const menuOpener = clone.querySelector('#menuOpener');
+        const menuCloser = clone.querySelector('#close');
+        const dom = document.querySelector('html');
+        const menuItem = clone.querySelectorAll('.nav__item');
+
+        menuOpener.addEventListener('click', function(){
+            dom.classList.add('--open');
+        });
+        menuCloser.addEventListener('click', function(){
+            dom.classList.remove('--open');
+        });
+        for (let i = 0; i < menuItem.length; i++) {
+            menuItem[i].addEventListener('click', function(){
+                dom.classList.remove('--open');
+            });
+        }
+    })();
+</script>
