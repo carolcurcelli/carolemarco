@@ -394,6 +394,7 @@ audio {
     width: 3em;
     right: 1em;
     top: 2em;
+    z-index: 20;
 }
 
 .--open #close img {
