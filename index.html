@@ -25,12 +25,20 @@
 		<meta name="twitter:card" content="summary_large_image">
 	</head>
     <body>
-        <nav id="navigation__space"></nav>
+        <nav id="navigation">
+            <section class="container">
+                <a href="/">
+                    <img src="assets/img/logo.png" class="nav__logo" alt="">
+                </a>
+                <img src="assets/img/menu.svg" id="menuOpener" alt="">
+                <div id="menu__space"></div>
+            </section>
+        </nav>
         <script>
             fetch('navigation.html')
               .then(response => response.text())
               .then(html => {
-                document.querySelector('#navigation__space').innerHTML = html;
+                document.querySelector('#menu__space').innerHTML = html;
               });
           </script>
         <main>
@@ -91,5 +99,6 @@
               });
           </script>
         <script src="assets/js/dates.js"></script>
+        <script src="assets/js/menu.js"></script>
     </body>
 </html>
