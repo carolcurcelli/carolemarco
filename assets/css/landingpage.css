@@ -247,7 +247,6 @@ audio {
     display: none;
     counter-reset: line-number;
     font-size:.75rem;
-    background-color: rgb(250 250 250 / 95%);
 }
 
 .--open .menu {
@@ -401,8 +400,18 @@ audio {
     width: 3em;
 }
 
+.--open .menu__space {
+    width: 100vw;
+    backdrop-filter: blur(12px);
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(250 250 250 / 95%);
+    position: fixed;
+    left: 0;
+}
+
 @media(min-width: 750px) {
-    #menuOpener, #close, .--open #close {
+    #menuOpener, #close, .--open #close, .--open .menu__space {
         display: none;
     }
     .menu {
