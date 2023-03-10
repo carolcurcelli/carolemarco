@@ -71,6 +71,7 @@ nav > .container {
     max-height: initial;
     display: inline;
     padding-top:6em;
+    max-width: 91vw;
 }
 
 .hero.--inner-page {
