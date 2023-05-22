@@ -32,14 +32,14 @@
         "image": "https://images.pexels.com/photos/739407/pexels-photo-739407.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
         "value": "630,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Passeio pelo Rio Sena",
         "image": "https://f7j8i5n9.stackpathcdn.com/wp-content/uploads/2016/08/RioSenaemParis.png",
         "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
         "value": "200,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Jardins de Monet",
