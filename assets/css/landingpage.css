@@ -17,7 +17,7 @@ nav {
     left: 0;
     backdrop-filter: blur(12px);
     z-index: 20;
-    background-color: rgb(230 238 243 / 12%);
+    background-color: rgba(245, 245, 245, 90%);
     border-bottom: 1px solid rgb(229, 229, 229);
     box-shadow: 0 26px 42px rgb(158 185 207 / 10%);
 }
@@ -373,7 +373,7 @@ audio {
     display: block;
     height: 1px;
     width: 100%;
-    background: linear-gradient(90deg, #042b31 0%, #042b31 40%, #fff 40%, #fff 60%, #042b31 60%, #042b31 100%);
+    background: linear-gradient(90deg, #042b31 0%, #042b31 40%, transparent 40%, transparent 60%, #042b31 60%, #042b31 100%);
     margin-top: -.7em;
 }
 
