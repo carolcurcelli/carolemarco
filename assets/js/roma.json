@@ -88,20 +88,20 @@
         "image": "https://www.repstatic.it/content/localirep/img/rep-roma/2016/04/22/175143446-1aad2aa8-c887-49c4-955b-94bc13245e0f.jpg",
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Fontana di Trevi",
         "image": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1534844151306/shutterstock-500306767_destinationMain_1534844211417.jpeg",
         "description": "Um passeio noturno guiado na Fontana di Trevi em Roma é uma experiência inesquecível. As luzes acesas realçam a beleza da fonte, tornando-a ainda mais impressionante à noite. Podemos jogar uma moedinha!",
         "value": "600,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Bicicletas em Monti",
         "image": "https://cdn.getyourguide.com/img/tour/5c388236c01f7.jpeg/146.jpg",
         "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
         "value": "200,00",
-        "stock": "1"
+        "stock": "0"
     }
 ]
