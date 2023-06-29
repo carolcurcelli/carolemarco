@@ -18,7 +18,7 @@
         "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Translado privativo do Aeroporto de Fiumicino FCO ao hotel no centro de Roma.",
         "value": "550,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Hop-on, Hop-off",
@@ -81,7 +81,7 @@
         "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
         "value": "260,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Laranjais",
