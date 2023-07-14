@@ -21,7 +21,7 @@
         
         if (wedding >= now) {
             return `Faltam 
-                    ${monthsToWedding} mes${monthsToWedding == 1 ? '' : 'es'},
+                    ${monthsToWedding} m${monthsToWedding == 1 ? 'ês' : 'eses'},
                     ${daysToWedding} dia${daysToWedding == 1 ? '' : 's'},
                     ${hoursToWedding} hora${hoursToWedding == 1 ? '' : 's'}, 
                     ${minutesToWedding} minuto${minutesToWedding == 1 ? '' : 's'} e 
@@ -33,7 +33,7 @@
         } else if (wedding < now) {
             return `Somos casados há
                     ${yearsToWedding} ano${yearsToWedding == 1 ? '' : 's'},
-                    ${monthsToWedding} mes${monthsToWedding == 1 ? '' : 'es'} e
+                    ${monthsToWedding} m${monthsToWedding == 1 ? 'ês' : 'eses'} e
                     ${daysToWedding} dia${daysToWedding == 1 ? '' : 's'}`
         }    
     } 
