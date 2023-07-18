@@ -81,7 +81,7 @@
         "image": "https://carolemarco.com.br/assets/img/carol.jpg",
         "description": "Carol está muito empenhada em aprendeu francês no Duolingo, e seu futuro esposo gostaria de pagar a mensalidade para que ela fique praticamente fluente até o dia da viagem.",
         "value": "100,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Montmartre",
@@ -95,7 +95,7 @@
         "image": "https://images.pexels.com/photos/1956974/pexels-photo-1956974.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um programa imperdível, cercado pela beleza dos jardins e parques, como o Jardim de Luxemburgo e o Champ de Mars, enquanto se delicia com os sabores dos queijos, pães, e vinhos.",
         "value": "400,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Um bom jantar",
