@@ -25,7 +25,7 @@
         "image": "https://d3iso9mq9tb10q.cloudfront.net/citylandingherocomp/image/Big-Bus-Tours_Rome_Big-Bus_at_Colosseum_desktop_4.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "346,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Roma Imperial",
@@ -46,14 +46,14 @@
         "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um jantar em um bom restaurante em Roma seria uma experiência incrível, com uma atmosfera romântica, pratos tradicionais italianos e vinhos deliciosos.",
         "value": "372,00",
-        "stock": "4"
+        "stock": "3"
     },
     {
         "name": "Autêntica pizza",
         "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Comer pizza em Roma é uma experiência autêntica e deliciosa. A massa fina e crocante, o molho de tomate fresco e os ingredientes selecionados são uma combinação perfeita.",
         "value": "200,00",
-        "stock": "3"
+        "stock": "2"
     },
     {
         "name": "Gelato",
