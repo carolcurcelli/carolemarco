@@ -60,14 +60,14 @@
         "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
         "value": "50,00",
-        "stock": "7"
+        "stock": "6"
     },
     {
         "name": "Piquenique",
         "image": "https://images.pexels.com/photos/1956974/pexels-photo-1956974.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
         "value": "400,00",
-        "stock": "1"
+        "stock": "0"
     },
     {
         "name": "Curiosidades",
