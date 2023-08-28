@@ -74,7 +74,7 @@
         "image": "https://images.pexels.com/photos/3776947/pexels-photo-3776947.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "A França é famosa por sua pâtisserie e boulangerie, com delícias como croissants, macarons, eclairs, tarte tatin e pain au chocolat. Não queremos perder a chance de experimentar a culinária francesa.",
         "value": "120,00",
-        "stock": "8"
+        "stock": "7"
     },
     {
         "name": "Duolingo",
@@ -102,6 +102,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jacques_Lameloise%2C_escab%C3%A8che_d%27%C3%A9crevisses_sur_gaspacho_d%27asperge_et_cresson.jpg",
         "description": "Experimentar a alta gastronomia francesa em um restaurante estrelado, acompanhado de vinho e sobremesa, em um ambiente charmoso e romântico.",
         "value": "372,00",
-        "stock": "3"
+        "stock": "2"
     }
 ]
