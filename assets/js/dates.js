@@ -1,25 +1,31 @@
 (function(){
 
     const wedding = new Date('September 9, 2023 10:30:00');
+    const partyEnds = new Date('September 9, 2023 16:59:59');
     const countdownArea = document.getElementById('countdown');
 
     function dateCreator(now) {
+
         const seconds = 1000
         const minutes = seconds * 60;
         const hours = minutes * 60;
         const days = hours * 24;
         const months = days * 30.5;
         const years = months * 12;
-        const difference = wedding - now;
+        const toTheWedding = wedding - now;
+        const sinceTheWedding = now - wedding;
 
-        const yearsToWedding = Math.abs(difference / years);
-        const monthsToWedding = Math.floor((difference % years) / months);
-        const daysToWedding = Math.floor((difference % months) / days);
-        const hoursToWedding = Math.floor((difference % days) / hours);
-        const minutesToWedding = Math.floor((difference % hours) / minutes);
-        const secondsToWedding = Math.floor((difference % minutes) / seconds);
+        const monthsToWedding = Math.floor((toTheWedding % years) / months);
+        const daysToWedding = Math.floor((toTheWedding % months) / days);
+        const hoursToWedding = Math.floor((toTheWedding % days) / hours);
+        const minutesToWedding = Math.floor((toTheWedding % hours) / minutes);
+        const secondsToWedding = Math.floor((toTheWedding % minutes) / seconds);
+
+        const yearsSinceWedding = Math.floor(sinceTheWedding / years);
+        const monthsSinceWedding = Math.floor((sinceTheWedding % years) / months);
+        const daysSinceWedding = Math.floor((sinceTheWedding % months) / days);
         
-        if (wedding >= now) {
+        if (now < wedding) {
             return `Faltam 
                     ${monthsToWedding} m${monthsToWedding == 1 ? 'ês' : 'eses'},
                     ${daysToWedding} dia${daysToWedding == 1 ? '' : 's'},
@@ -27,14 +33,18 @@
                     ${minutesToWedding} minuto${minutesToWedding == 1 ? '' : 's'} e 
                     ${secondsToWedding} segundo${secondsToWedding == 1 ? '' : 's'}`
         } else if (
-            now >= wedding 
-            && now < new Date(wedding.getTime() + 30*60000)) { 
+            now >= wedding && now <= partyEnds
+            ) { 
                 return `Estamos casando agora!`
-        } else if (wedding < now) {
-            return `Somos casados há
-                    ${yearsToWedding} ano${yearsToWedding == 1 ? '' : 's'},
-                    ${monthsToWedding} m${monthsToWedding == 1 ? 'ês' : 'eses'} e
-                    ${daysToWedding} dia${daysToWedding == 1 ? '' : 's'}`
+        } else if (now > wedding) {
+            if(daysSinceWedding <= 0) {
+                return `Acabamos de casar!`
+            } else {
+                return `Somos casados há
+                    ${yearsSinceWedding} ano${yearsSinceWedding == 1 ? '' : 's'},
+                    ${monthsSinceWedding} m${monthsSinceWedding == 1 ? 'ês' : 'eses'} e
+                    ${daysSinceWedding} dia${daysSinceWedding == 1 ? '' : 's'}`
+            }
         }    
     } 
 
