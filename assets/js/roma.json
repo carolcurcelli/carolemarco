@@ -46,7 +46,7 @@
         "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um jantar em um bom restaurante em Roma seria uma experiência incrível, com uma atmosfera romântica, pratos tradicionais italianos e vinhos deliciosos.",
         "value": "372,00",
-        "stock": "2"
+        "stock": "1"
     },
     {
         "name": "Autêntica pizza",
@@ -60,7 +60,7 @@
         "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=1600",
         "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
         "value": "50,00",
-        "stock": "4"
+        "stock": "0"
     },
     {
         "name": "Piquenique",
