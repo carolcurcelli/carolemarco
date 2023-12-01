@@ -39,6 +39,10 @@
         } else if (now > wedding) {
             if(daysSinceWedding <= 0) {
                 return `Acabamos de casar!`
+            } else if (yearsSinceWedding === 0) {
+                return `Somos casados há
+                    ${monthsSinceWedding} m${monthsSinceWedding == 1 ? 'ês' : 'eses'} e
+                    ${daysSinceWedding} dia${daysSinceWedding == 1 ? '' : 's'}`
             } else {
                 return `Somos casados há
                     ${yearsSinceWedding} ano${yearsSinceWedding == 1 ? '' : 's'},
