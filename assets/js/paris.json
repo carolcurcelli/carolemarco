@@ -5,8 +5,8 @@
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "3.500,00",
         "stock": "1",
-        "date": "9/9/2023",
-        "gifter": "Fulano"
+        "date": "19/09/2023",
+        "gifter": "Fernanda e Lillian"
     },
     {
         "name": "Hospedagem",
@@ -14,8 +14,8 @@
         "description": "Hospedagem para 7 noites em Paris no Best Western Hotel Victor Hugo. A hospedagem é de um quarto clássico com cama de casal e dá direito a café da manhã.",
         "value": "2.147,85",
         "stock": "1",
-        "date": "9/9/2023",
-        "gifter": "Fulano"
+        "date": "19/09/2023",
+        "gifter": "pessoal"
     },
     {
         "name": "Transporte",
@@ -23,8 +23,8 @@
         "description": "Translado privativo do Aeroporto Paris CDG ao hotel no centro de Paris.",
         "value": "1.654,00",
         "stock": "0",
-        "date": "9/9/2023",
-        "gifter": "Fulano"
+        "date": "19/09/2023",
+        "gifter": "Bruno e Verônica"
     },
     {
         "name": "Big Bus",
@@ -32,8 +32,8 @@
         "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
         "value": "562,40",
         "stock": "0",
-        "date": "9/9/2023",
-        "gifter": "Fulano"
+        "date": "20/09/2023",
+        "gifter": "Sônia Ribeiro, Heleyder e Valmir"
     },
     {
         "name": "Torre Eiffel",
@@ -42,7 +42,7 @@
         "value": "630,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Sandra Passos (Mãe)"
     },
     {
         "name": "Passeio pelo Rio Sena",
@@ -51,7 +51,7 @@
         "value": "200,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "pessoal"
     },
     {
         "name": "Jardins de Monet",
@@ -60,7 +60,7 @@
         "value": "1.000,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Paulo Silveira"
     },
     {
         "name": "Louvre",
@@ -69,7 +69,7 @@
         "value": "670,50",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "pessoal"
     },
     {
         "name": "Palácio de Versalhes",
@@ -78,7 +78,7 @@
         "value": "1.200,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Matheuzinho, Pieri, Amon, Julinho, Dave, Trompetinho, Stu, Quina"
     },
     {
         "name": "Eurodisney",
@@ -87,7 +87,7 @@
         "value": "2.100,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Olívia e Jean"
     },
     {
         "name": "Docinhos franceses",
@@ -96,7 +96,7 @@
         "value": "120,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Renato Giampietro, Turtle, Julia Araujo, Caio Bugorin, Blaze, Letrícia e Natália, Ananda, Alexandre Fadel, Dimitri"
     },
     {
         "name": "Duolingo",
@@ -105,7 +105,7 @@
         "value": "100,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "pessoal"
     },
     {
         "name": "Montmartre",
@@ -114,7 +114,7 @@
         "value": "120,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Jaques e Ana"
     },
     {
         "name": "Piquenique",
@@ -123,7 +123,7 @@
         "value": "400,00",
         "stock": "0",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Cadu e Aline"
     },
     {
         "name": "Um bom jantar",
@@ -132,6 +132,6 @@
         "value": "372,00",
         "stock": "1",
         "date": "9/9/2023",
-        "gifter": "Fulano"
+        "gifter": "Mário e Sofia, Letícia e Natália, Arthur Cavalheiro"
     }
 ]
