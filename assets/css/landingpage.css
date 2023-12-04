@@ -417,6 +417,10 @@ audio {
     margin-top: -.7em;
 }
 
+.--honey-moon h3 {
+    padding-top:4em;
+}
+
 #menuOpener {
     position: absolute;
     right: 1em;
