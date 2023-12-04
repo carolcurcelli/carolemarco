@@ -1,102 +1,102 @@
 [
     {
         "name": "Vestido",
-        "image": "passagens__italia.jpg",
+        "image": "vestido.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Via Sposa",
+        "gifter": "Mãe da noiva"
     },
     {
         "name": "Terno",
-        "image": "passagens__italia.jpg",
+        "image": "terno.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Via Veneto",
+        "gifter": "Dadá Passos"
     },
     {
         "name": "Cerimônia",
-        "image": "passagens__italia.jpg",
+        "image": "religioso.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Paróquia São Carlos Borromeu",
+        "gifter": "Pai do noivo"
     },
     {
         "name": "Perfume",
-        "image": "passagens__italia.jpg",
+        "image": "perfume.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Miss Dior Eau de Parfum",
+        "gifter": "Madrinhas"
     },
     {
         "name": "Pijama de Seda",
-        "image": "passagens__italia.jpg",
+        "image": "pijama.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Intimissimi",
+        "gifter": "Bruna e Lucas"
     },
     {
-        "name": "Fotografia Aço Filmes",
-        "image": "passagens__italia.jpg",
+        "name": "Fotografia",
+        "image": "fotografia.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Aço Filmes",
+        "gifter": "Otávio Falavigna"
     },
     {
         "name": "Café da Manhã",
-        "image": "passagens__italia.jpg",
+        "image": "cafe.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Frutas e frios",
+        "gifter": "Pietra Vaz"
     },
     {
         "name": "Chauffeur até Igreja",
-        "image": "passagens__italia.jpg",
+        "image": "entrada.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Fordinho",
+        "gifter": "André Falavigna"
     },
     {
         "name": "Chauffeur até Hotel",
-        "image": "passagens__italia.jpg",
+        "image": "saida.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Boratmóvel",
+        "gifter": "Victor 'Borat' Ugo"
     },
     {
-        "name": "Valsa",
-        "image": "passagens__italia.jpg",
+        "name": "Coreografia",
+        "image": "valsa.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Valse di Fantastica",
+        "gifter": "Ana Maria Curcelli"
     },
     {
         "name": "Lembrancinhas",
-        "image": "passagens__italia.jpg",
+        "image": "velas.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Catha Velas",
+        "gifter": "Carlos e Taila"
     },
     {
         "name": "Cafeteira",
@@ -104,7 +104,7 @@
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "",
         "stock": "1",
-        "date": "19 de setembro",
-        "gifter": "Fernanda e Lillian"
+        "date": "Philco",
+        "gifter": "Joe e Pamela"
     }
 ]
