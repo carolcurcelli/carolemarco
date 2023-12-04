@@ -5,7 +5,7 @@
         "description": "Passagens de avião para Marco e Carol de Roma para São Paulo, pela Italian Airways, em cabines econômicas.",
         "value": "3.500,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "26 de setembro",
         "gifter": "Lillian e Fernanda"
     },
     {
@@ -14,7 +14,7 @@
         "description": "Hospedagem para 6 noites em Roma no MZ Hotel Rome. A hospedagem é de um quarto superior com cama de queen e dá direito a café da manhã.",
         "value": "2.385,75",
         "stock": "1",
-        "date": "9/9/2023",
+        "date": "26 de setembro",
         "gifter": "pessoal"
     },
     {
@@ -23,7 +23,7 @@
         "description": "Translado privativo do Aeroporto de Fiumicino FCO ao hotel no centro de Roma.",
         "value": "550,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "26 de setembro",
         "gifter": "Família Peripato, Pedro e Brenda"
     },
     {
@@ -32,7 +32,7 @@
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "346,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "27 de setembro",
         "gifter": "Marina Artioli e Família Mattiazzo"
     },
     {
@@ -41,7 +41,7 @@
         "description": "Reviveremos a grandeza do Império Romano visitando o Coliseu, o Fórum Romano e subindo o Monte Palatino para ver onde Roma foi fundada.",
         "value": "835,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "28 de setembro",
         "gifter": "Neide Simões (Mamãe)"
     },
     {
@@ -50,7 +50,7 @@
         "description": "Visitaremos os Museus do Vaticano, Capela Sistina e Basílica de São Pedro em um tour de 3 horas. Veremos arte clássica, afrescos de Michelangelo e a maior igreja católica do mundo. O passeio termina na Praça de São Pedro.",
         "value": "900,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "30 de setembro",
         "gifter": "Vera (Dadá) Passos"
     },
     {
@@ -59,7 +59,7 @@
         "description": "Um jantar em um bom restaurante em Roma seria uma experiência incrível, com uma atmosfera romântica, pratos tradicionais italianos e vinhos deliciosos.",
         "value": "372,00",
         "stock": "1",
-        "date": "9/9/2023",
+        "date": "Semerp que possível!",
         "gifter": "João e Maria, Luisa Fadel e Isaac"
     },
     {
@@ -68,7 +68,7 @@
         "description": "Comer pizza em Roma é uma experiência autêntica e deliciosa. A massa fina e crocante, o molho de tomate fresco e os ingredientes selecionados são uma combinação perfeita.",
         "value": "200,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "Quase todas as noites",
         "gifter": "Nádia Fadel, Luís Henrique, Arthur e Rebeka, Matheus Cinzento, "
     },
     {
@@ -77,7 +77,7 @@
         "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
         "value": "50,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "A cada esquina",
         "gifter": "Turtle, Aurora e Dani, Mário e Sofia, Caio Bugorin, Lucão, Arthur e Rebeka"
     },
     {
@@ -86,7 +86,7 @@
         "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
         "value": "400,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "-",
         "gifter": "Nicole e Letícia"
     },
     {
@@ -95,7 +95,7 @@
         "description": "Encarar seu esposo, Marco, contando fatos curiosos pela cidade de Roma seria como fazer uma viagem no tempo, mas com um professor um pouco excêntrico. Talvez Carol precise de um vinho.",
         "value": "100,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "O tempo todo",
         "gifter": "Natan Leão"
     },
     {
@@ -104,7 +104,7 @@
         "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
         "value": "260,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "-",
         "gifter": "pessoal"
     },
     {
@@ -113,7 +113,7 @@
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "-",
         "gifter": "pessoal"
     },
     {
@@ -122,14 +122,14 @@
         "description": "Um passeio noturno guiado na Fontana di Trevi em Roma é uma experiência inesquecível. As luzes acesas realçam a beleza da fonte, tornando-a ainda mais impressionante à noite. Podemos jogar uma moedinha!",
         "value": "600,00",
         "stock": "0",
-        "date": "9/9/2023",
+        "date": "1º de outubro",
         "gifter": "pessoal"
     },
     {
         "name": "Bicicletas em Monti",
         "image": "https://cdn.getyourguide.com/img/tour/5c388236c01f7.jpeg/146.jpg",
         "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
-        "value": "200,00",
+        "value": "-",
         "stock": "0",
         "date": "9/9/2023",
         "gifter": "pessoal"
