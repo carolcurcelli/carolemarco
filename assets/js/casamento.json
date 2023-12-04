@@ -6,7 +6,7 @@
         "value": "",
         "stock": "0",
         "date": "Via Sposa",
-        "gifter": "Mãe da noiva"
+        "gifter": "mãe da noiva"
     },
     {
         "name": "Terno",
@@ -24,7 +24,7 @@
         "value": "",
         "stock": "0",
         "date": "Paróquia São Carlos Borromeu",
-        "gifter": "Pai do noivo"
+        "gifter": "pai do noivo"
     },
     {
         "name": "Perfume",
@@ -64,7 +64,7 @@
     },
     {
         "name": "Chauffeur até Igreja",
-        "image": "entrada.jpg",
+        "image": "carro1.jpg",
         "description": "Mesmos nos meus sonhos mais fantásticos, nunca pensei que teria uma chegada tão triunfal! Obrigada, André!",
         "value": "",
         "stock": "0",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Chauffeur até Hotel",
-        "image": "saida.jpg",
+        "image": "carro2.jpg",
         "description": "Ext. Agr. ao D. Dr. Victor Ugo A. Pl. ilustre caro. fornec.",
         "value": "",
         "stock": "0",

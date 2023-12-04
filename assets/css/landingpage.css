@@ -291,6 +291,10 @@ audio {
     position: relative;
 }
 
+.--casamento .gift {
+    height: 34em;
+}
+
 .gift__image {
     height: 16em;
     width: 16em;
