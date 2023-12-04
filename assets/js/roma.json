@@ -1,7 +1,7 @@
 [
     {
         "name": "Passagens",
-        "image": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "passagens__roma.jpg",
         "description": "Passagens de avião para Marco e Carol de Roma para São Paulo, pela Italian Airways, em cabines econômicas.",
         "value": "3.500,00",
         "stock": "0",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Hospedagem",
-        "image": "https://mz-hotel-rome.booked.net/data/Photos/OriginalPhoto/11682/1168283/1168283095/Mz-Hotel-Rome-Exterior.JPEG",
+        "image": "hospedagem__roma.jpg",
         "description": "Hospedagem para 6 noites em Roma no MZ Hotel Rome. A hospedagem é de um quarto superior com cama de queen e dá direito a café da manhã.",
         "value": "2.385,75",
         "stock": "1",
@@ -19,7 +19,7 @@
     },
     {
         "name": "Transporte",
-        "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "transporte__roma.jpg",
         "description": "Translado privativo do Aeroporto de Fiumicino FCO ao hotel no centro de Roma.",
         "value": "550,00",
         "stock": "0",
@@ -28,7 +28,7 @@
     },
     {
         "name": "Hop-on, Hop-off",
-        "image": "https://d3iso9mq9tb10q.cloudfront.net/citylandingherocomp/image/Big-Bus-Tours_Rome_Big-Bus_at_Colosseum_desktop_4.jpg",
+        "image": "hoponhopoff.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "346,00",
         "stock": "0",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Roma Imperial",
-        "image": "https://images.pexels.com/photos/1809616/pexels-photo-1809616.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "coliseu.jpg",
         "description": "Reviveremos a grandeza do Império Romano visitando o Coliseu, o Fórum Romano e subindo o Monte Palatino para ver onde Roma foi fundada.",
         "value": "835,00",
         "stock": "0",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Museus do Vaticano",
-        "image": "https://images.pexels.com/photos/326709/pexels-photo-326709.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "vaticano.jpg",
         "description": "Visitaremos os Museus do Vaticano, Capela Sistina e Basílica de São Pedro em um tour de 3 horas. Veremos arte clássica, afrescos de Michelangelo e a maior igreja católica do mundo. O passeio termina na Praça de São Pedro.",
         "value": "900,00",
         "stock": "0",
@@ -55,16 +55,16 @@
     },
     {
         "name": "Um bom jantar",
-        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "carbonara.jpg",
         "description": "Um jantar em um bom restaurante em Roma seria uma experiência incrível, com uma atmosfera romântica, pratos tradicionais italianos e vinhos deliciosos.",
         "value": "372,00",
         "stock": "1",
-        "date": "Semerp que possível!",
+        "date": "Sempre que possível!",
         "gifter": "João e Maria, Luisa Fadel e Isaac"
     },
     {
         "name": "Autêntica pizza",
-        "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "pizza.jpg",
         "description": "Comer pizza em Roma é uma experiência autêntica e deliciosa. A massa fina e crocante, o molho de tomate fresco e os ingredientes selecionados são uma combinação perfeita.",
         "value": "200,00",
         "stock": "0",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Gelato",
-        "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "gelato.jpg",
         "description": "Um passeio pelo centro histórico com um gelato na mão é uma combinação perfeita para refrescar e aproveitar a cidade.",
         "value": "50,00",
         "stock": "0",
@@ -82,7 +82,7 @@
     },
     {
         "name": "Piquenique",
-        "image": "https://images.pexels.com/photos/1956974/pexels-photo-1956974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image": "piquenique_roma.jpg",
         "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
         "value": "400,00",
         "stock": "0",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Curiosidades",
-        "image": "https://carolemarco.com.br/assets/img/marco.jpg",
+        "image": "curiosidades.jpg",
         "description": "Encarar seu esposo, Marco, contando fatos curiosos pela cidade de Roma seria como fazer uma viagem no tempo, mas com um professor um pouco excêntrico. Talvez Carol precise de um vinho.",
         "value": "100,00",
         "stock": "0",
@@ -99,8 +99,8 @@
         "gifter": "Natan Leão"
     },
     {
-        "name": "Rio Tibre",
-        "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "name": "Fonte de JoJo",
+        "image": "jojo.jpg",
         "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
         "value": "260,00",
         "stock": "0",
@@ -108,8 +108,8 @@
         "gifter": "pessoal"
     },
     {
-        "name": "Laranjais",
-        "image": "https://www.repstatic.it/content/localirep/img/rep-roma/2016/04/22/175143446-1aad2aa8-c887-49c4-955b-94bc13245e0f.jpg",
+        "name": "Ver o Papa",
+        "image": "vaticano.jpg",
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
         "stock": "0",
@@ -118,7 +118,7 @@
     },
     {
         "name": "Fontana di Trevi",
-        "image": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1534844151306/shutterstock-500306767_destinationMain_1534844211417.jpeg",
+        "image": "fontana.jpg",
         "description": "Um passeio noturno guiado na Fontana di Trevi em Roma é uma experiência inesquecível. As luzes acesas realçam a beleza da fonte, tornando-a ainda mais impressionante à noite. Podemos jogar uma moedinha!",
         "value": "600,00",
         "stock": "0",
@@ -126,8 +126,8 @@
         "gifter": "pessoal"
     },
     {
-        "name": "Bicicletas em Monti",
-        "image": "https://cdn.getyourguide.com/img/tour/5c388236c01f7.jpeg/146.jpg",
+        "name": "Explorar Roma",
+        "image": "explorar.jpg",
         "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
         "value": "-",
         "stock": "0",

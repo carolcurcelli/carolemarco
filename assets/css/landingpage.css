@@ -288,13 +288,14 @@ audio {
     max-width: 100%;
     width: 14em;
     margin: 0 .5em 1em;
+    position: relative;
 }
 
 .gift__image {
     height: 16em;
     width: 16em;
     max-width: 100%;
-    margin: 1em auto 2em;
+    margin: 1em auto 0;
     background-size: cover;
     background-position: center;
 }
@@ -303,6 +304,10 @@ audio {
     text-align: center;
     background-color: #fcfbfa;
     padding: .8em 0 .2em;
+    position: absolute;
+    bottom: 2em;
+    left: 0;
+    right: 0;
 }
 
 .gift__value {
@@ -312,7 +317,9 @@ audio {
 
 .gift__quantity {
     display: block;
-    font-size: .8em;
+    font-size: .7em;
+    text-align: center;
+    margin-bottom: 1em;
 }
 
 .gift .button {
@@ -321,6 +328,35 @@ audio {
 
 .gift > p {
     height: 14em;
+}
+
+.gift__date {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background-color: #031118;
+    color: #fff;
+    font-size:.7em;
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.gift__date:before,
+.gift__date:after {
+    content: '';
+    height: 1.1rem;
+    width: 1.1rem;
+    display: block;
+    background-color: #fcfbfa;
+    position: absolute;
+    top: 0;
+    left: -1.1em;
+    transform: rotate(45deg);
+}
+
+.gift__date:after {
+    left: initial;
+    right: -1.1em;
 }
 
 .number-list {
@@ -436,6 +472,9 @@ audio {
     }
     .small {
         margin-top: 1em;
+    }
+    .gift {
+        height: 47em;
     }
 }
 
