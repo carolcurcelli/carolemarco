@@ -2,34 +2,34 @@
     {
         "name": "Vestido",
         "image": "vestido.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Obrigada pelo vestido e tantas outras coisas, mãe. Graças a você eu me casei me sentindo uma princesa.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Via Sposa",
         "gifter": "Mãe da noiva"
     },
     {
         "name": "Terno",
         "image": "terno.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Muito obrigado, minha madrinha querida, por este tão belo terno.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Via Veneto",
         "gifter": "Dadá Passos"
     },
     {
         "name": "Cerimônia",
         "image": "religioso.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Muito obrigado, pai, por ter nos ajudado a realizar essa cerimônia inesquecível.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Paróquia São Carlos Borromeu",
         "gifter": "Pai do noivo"
     },
     {
         "name": "Perfume",
         "image": "perfume.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Minhas madrinhas realizaram um sonho meu que vou guardar na minha penteadeira pro resto da minha vida.",
         "value": "",
         "stock": "1",
         "date": "Miss Dior Eau de Parfum",
@@ -38,72 +38,72 @@
     {
         "name": "Pijama de Seda",
         "image": "pijama.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Graças ao pijama lindo de presente de Bruna e Lucas as fotos do making-of ficaram lindas.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Intimissimi",
         "gifter": "Bruna e Lucas"
     },
     {
         "name": "Fotografia",
         "image": "fotografia.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Os meninos da Aço Filmes foram tão pacientes conosco, só tenho a agradecer.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Aço Filmes",
         "gifter": "Otávio Falavigna"
     },
     {
         "name": "Café da Manhã",
         "image": "cafe.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Obrigada Pietra por se certificar de que a noiva tomou café da manhã, porque senão ela realmente não teria. Já pensou?",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Frutas e frios",
         "gifter": "Pietra Vaz"
     },
     {
         "name": "Chauffeur até Igreja",
         "image": "entrada.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Mesmos nos meus sonhos mais fantásticos, nunca pensei que teria uma chegada tão triunfal! Obrigada, André!",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Fordinho",
         "gifter": "André Falavigna"
     },
     {
         "name": "Chauffeur até Hotel",
         "image": "saida.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Ext. Agr. ao D. Dr. Victor Ugo A. Pl. ilustre caro. fornec.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Boratmóvel",
         "gifter": "Victor 'Borat' Ugo"
     },
     {
         "name": "Coreografia",
         "image": "valsa.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Obrigada, Aninha, por tornar um momento que estávamos tão nervosos em algo tão bonito e memorável.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Valse di Fantastica",
         "gifter": "Ana Maria Curcelli"
     },
     {
         "name": "Lembrancinhas",
         "image": "velas.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "As velinhas com cheiro de baunilha pra eu lembrar pra sempre do dia mais felz da minha vida.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Catha Velas",
         "gifter": "Carlos e Taila"
     },
     {
         "name": "Cafeteira",
         "image": "passagens__italia.jpg",
-        "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
+        "description": "Obrigado garantir que nessa casa possam existir capsulas de todo gosto e tamanho.",
         "value": "",
-        "stock": "1",
+        "stock": "0",
         "date": "Philco",
         "gifter": "Joe e Pamela"
     }
