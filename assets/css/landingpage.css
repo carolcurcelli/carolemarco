@@ -313,7 +313,6 @@ audio {
     text-align: center;
     background-color: #fcfbfa;
     padding: .8em 0 .2em;
-    position: absolute;
     bottom: 2em;
     left: 0;
     right: 0;
@@ -496,6 +495,10 @@ audio {
     }
     .gift {
         height: 32em;
+    }
+    .gift__wrapper {
+        position: absolute;
+        bottom: 1em;
     }
 }
 
