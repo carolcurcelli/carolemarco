@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="assets/css/reset.css">
 		<link rel="stylesheet" href="assets/css/base.css">
 		<link rel="stylesheet" href="assets/css/landingpage.css">
+		<link rel="stylesheet" href="assets/css/slideshow.css">
 		<link rel="canonical" href="https://marcoecarol.com.br/">
 		<link rel="icon" type="image/png" href="assets/img/heart.png">
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,11 +45,23 @@
               });
         </script>
     <main>
-        <section class="hero wall --inner-page">
+        <section class="hero wall --inner-page --messages">
                 <div class="container">
                     <h2>Mensagens aos noivos</h2>
-                    <p>Deixe uma mensagem para os noivos abaixo:</p>
-                    <iframe src="https://www3.cbox.ws/box/?boxid=3522513&boxtag=ja5epH" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+                    <p>As mensagens que os convidados deixaram aos noivos:</p>
+                    <div id="slider" class="slider">
+                    <div class="wrapper">
+                        <div id="slides" class="slides">
+                        <span class="slide">Slide 1</span>
+                        <span class="slide">Slide 2</span>
+                        <span class="slide">Slide 3</span>
+                        <span class="slide">Slide 4</span>
+                        <span class="slide">Slide 5</span>
+                        </div>
+                    </div>
+                    <a id="prev" class="control prev"></a>
+                    <a id="next" class="control next"></a>
+                    </div>
                 </div>
         </section>
     </main>
@@ -61,5 +74,6 @@
               });
           </script>
         <script src="assets/js/menu.js"></script>
+        <script src="assets/js/slideshow.js"></script>
     </body>
 </html>

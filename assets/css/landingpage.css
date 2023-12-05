@@ -522,4 +522,8 @@ audio {
         background-position: left top, right top;
         background-attachment: fixed;
     }
+
+    .hero.--inner-page.--messages .container {
+        margin-top: 5em;
+    }
 }
