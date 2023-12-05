@@ -66,6 +66,17 @@
         "gifter": "Neide Simões (Mamãe)"
     },
     {
+        "name": "Explorar Roma",
+        "id": "explorar",
+        "image": "explorar.jpg",
+        "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
+        "value": "Sempre que possível",
+        "stock": "0",
+        "date": "29 de setembro",
+        "active": false,
+        "gifter": "pessoal"
+    },
+    {
         "name": "Museus do Vaticano",
         "id": "vaticano",
         "image": "vaticano.jpg",
@@ -75,6 +86,17 @@
         "date": "30 de setembro",
         "active": false,
         "gifter": "Vera (Dadá) Passos"
+    },
+    {
+        "name": "Piquenique",
+        "id": "piquenique",
+        "image": "piquenique_roma.jpg",
+        "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
+        "value": "400,00",
+        "stock": "0",
+        "date": "30 de setembro",
+        "active": false,
+        "gifter": "Nicole e Letícia"
     },
     {
         "name": "Um bom jantar",
@@ -110,17 +132,6 @@
         "gifter": "Turtle, Aurora e Dani, Mário e Sofia, Caio Bugorin, Lucão, Arthur e Rebeka"
     },
     {
-        "name": "Piquenique",
-        "id": "piquenique",
-        "image": "piquenique_roma.jpg",
-        "description": "Um piquenique em Roma pode ser uma deliciosa experiência gastronômica, com queijos, vinhos, pães e frutas italianas em meio a belas paisagens e monumentos da cidade.",
-        "value": "400,00",
-        "stock": "0",
-        "date": "-",
-        "active": false,
-        "gifter": "Nicole e Letícia"
-    },
-    {
         "name": "Curiosidades",
         "id": "curiosidades",
         "image": "curiosidades.jpg",
@@ -150,17 +161,6 @@
         "value": "600,00",
         "stock": "0",
         "date": "1º de outubro",
-        "active": false,
-        "gifter": "pessoal"
-    },
-    {
-        "name": "Explorar Roma",
-        "id": "explorar",
-        "image": "explorar.jpg",
-        "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
-        "value": "Sempre que possível",
-        "stock": "0",
-        "date": "9/9/2023",
         "active": false,
         "gifter": "pessoal"
     }
