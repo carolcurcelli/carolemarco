@@ -417,8 +417,13 @@ audio {
     display: block;
     height: 1px;
     width: 100%;
-    background: linear-gradient(90deg, #042b31 0%, #042b31 40%, transparent 40%, transparent 60%, #042b31 60%, #042b31 100%);
+    background: #042b31;
     margin-top: -.7em;
+}
+
+.destination span {
+    background: #fcfbfa;
+    padding: 0 1rem;
 }
 
 #menuOpener {
