@@ -7,6 +7,7 @@
         "value": "3.500,00",
         "stock": "0",
         "date": "26 de setembro",
+        "active": false,
         "gifter": "Lillian e Fernanda"
     },
     {
@@ -17,6 +18,7 @@
         "value": "2.385,75",
         "stock": "1",
         "date": "26 de setembro",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -27,6 +29,7 @@
         "value": "550,00",
         "stock": "0",
         "date": "26 de setembro",
+        "active": false,
         "gifter": "Família Peripato, Pedro e Brenda"
     },
     {
@@ -37,6 +40,7 @@
         "value": "346,00",
         "stock": "0",
         "date": "27 de setembro",
+        "active": false,
         "gifter": "Marina Artioli e Família Mattiazzo"
     },
     {
@@ -47,6 +51,7 @@
         "value": "835,00",
         "stock": "0",
         "date": "28 de setembro",
+        "active": false,
         "gifter": "Neide Simões (Mamãe)"
     },
     {
@@ -57,6 +62,7 @@
         "value": "900,00",
         "stock": "0",
         "date": "30 de setembro",
+        "active": false,
         "gifter": "Vera (Dadá) Passos"
     },
     {
@@ -67,6 +73,7 @@
         "value": "372,00",
         "stock": "1",
         "date": "Sempre que possível!",
+        "active": false,
         "gifter": "João e Maria, Luisa Fadel e Isaac"
     },
     {
@@ -77,6 +84,7 @@
         "value": "200,00",
         "stock": "0",
         "date": "Quase todas as noites",
+        "active": false,
         "gifter": "Nádia Fadel, Luís Henrique, Arthur e Rebeka, Matheus Cinzento, "
     },
     {
@@ -87,6 +95,7 @@
         "value": "50,00",
         "stock": "0",
         "date": "A cada esquina",
+        "active": false,
         "gifter": "Turtle, Aurora e Dani, Mário e Sofia, Caio Bugorin, Lucão, Arthur e Rebeka"
     },
     {
@@ -97,6 +106,7 @@
         "value": "400,00",
         "stock": "0",
         "date": "-",
+        "active": false,
         "gifter": "Nicole e Letícia"
     },
     {
@@ -107,6 +117,7 @@
         "value": "100,00",
         "stock": "0",
         "date": "O tempo todo",
+        "active": false,
         "gifter": "Natan Leão"
     },
     {
@@ -117,6 +128,7 @@
         "value": "260,00",
         "stock": "0",
         "date": "-",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -127,6 +139,7 @@
         "value": "260,00",
         "stock": "0",
         "date": "-",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -137,6 +150,7 @@
         "value": "600,00",
         "stock": "0",
         "date": "1º de outubro",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -147,6 +161,7 @@
         "value": "-",
         "stock": "0",
         "date": "9/9/2023",
+        "active": false,
         "gifter": "pessoal"
     }
 ]

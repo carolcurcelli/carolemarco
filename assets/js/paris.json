@@ -7,6 +7,7 @@
         "value": "3.500,00",
         "stock": "1",
         "date": "19 de setembro",
+        "active": true,
         "gifter": "Fernanda e Lillian"
     },
     {
@@ -17,6 +18,7 @@
         "value": "2.147,85",
         "stock": "1",
         "date": "19 de setembro",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -27,6 +29,7 @@
         "value": "1.654,00",
         "stock": "0",
         "date": "19 de setembro",
+        "active": false,
         "gifter": "Bruno e Verônica"
     },
     {
@@ -37,6 +40,7 @@
         "value": "562,40",
         "stock": "0",
         "date": "20 de setembro",
+        "active": false,
         "gifter": "Sônia Ribeiro, Heleyder e Valmir"
     },
     {
@@ -47,6 +51,7 @@
         "value": "400,00",
         "stock": "0",
         "date": "20 de setembro",
+        "active": false,
         "gifter": "Cadu e Aline"
     },
     {
@@ -57,6 +62,7 @@
         "value": "120,00",
         "stock": "0",
         "date": "20 de setembro",
+        "active": false,
         "gifter": "Jaques e Ana"
     },
     {
@@ -67,6 +73,7 @@
         "value": "630,00",
         "stock": "0",
         "date": "21 de setembro",
+        "active": false,
         "gifter": "Sandra Passos (Mãe)"
     },
     {
@@ -77,6 +84,7 @@
         "value": "200,00",
         "stock": "0",
         "date": "21 de setembro",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -87,6 +95,7 @@
         "value": "1.200,00",
         "stock": "0",
         "date": "22 de setembro",
+        "active": false,
         "gifter": "Matheuzinho, Pieri, Amon, Julinho, Dave, Trompetinho, Stu, Quina"
     },
     {
@@ -97,6 +106,7 @@
         "value": "120,00",
         "stock": "0",
         "date": "Sempre que possível!",
+        "active": false,
         "gifter": "Renato Giampietro, Turtle, Julia Araujo, Caio Bugorin, Blaze, Letrícia e Natália, Ananda, Alexandre Fadel, Dimitri"
     },
     {
@@ -107,6 +117,7 @@
         "value": "670,50",
         "stock": "0",
         "date": "23 de setembro",
+        "active": false,
         "gifter": "Ana (Nana) Passos"
     },
     {
@@ -117,6 +128,7 @@
         "value": "1.000,00",
         "stock": "0",
         "date": "24 de setembro",
+        "active": false,
         "gifter": "Paulo Silveira"
     },
     {
@@ -127,6 +139,7 @@
         "value": "2.100,00",
         "stock": "0",
         "date": "25 de setembro",
+        "active": false,
         "gifter": "Olívia e Jean"
     },
     {
@@ -137,6 +150,7 @@
         "value": "100,00",
         "stock": "0",
         "date": "Todos os dias",
+        "active": false,
         "gifter": "pessoal"
     },
     {
@@ -147,6 +161,7 @@
         "value": "372,00",
         "stock": "1",
         "date": "Sempre que possível!",
+        "active": false,
         "gifter": "Mário e Sofia, Letícia e Natália, Arthur Cavalheiro"
     }
 ]
