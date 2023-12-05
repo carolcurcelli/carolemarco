@@ -44,6 +44,17 @@
         "gifter": "Marina Artioli e Família Mattiazzo"
     },
     {
+        "name": "Fonte de JoJo",
+        "id": "jojo",
+        "image": "jojo.jpg",
+        "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
+        "value": "260,00",
+        "stock": "0",
+        "date": "27 de setembro",
+        "active": false,
+        "gifter": "pessoal"
+    },
+    {
         "name": "Roma Imperial",
         "id": "coliseu",
         "image": "coliseu.jpg",
@@ -85,7 +96,7 @@
         "stock": "0",
         "date": "Quase todas as noites",
         "active": false,
-        "gifter": "Nádia Fadel, Luís Henrique, Arthur e Rebeka, Matheus Cinzento, "
+        "gifter": "Nádia Fadel, Luís Henrique, Arthur e Rebeka, e Matheus Cinzento"
     },
     {
         "name": "Gelato",
@@ -121,24 +132,13 @@
         "gifter": "Natan Leão"
     },
     {
-        "name": "Fonte de JoJo",
-        "id": "jojo",
-        "image": "jojo.jpg",
-        "description": "Um passeio no rio Tibre em Roma oferece vistas deslumbrantes das pontes antigas, da arquitetura histórica e da beleza natural, proporcionando uma experiência única e memorável na cidade eterna.",
-        "value": "260,00",
-        "stock": "0",
-        "date": "-",
-        "active": false,
-        "gifter": "pessoal"
-    },
-    {
         "name": "Ver o Papa",
         "id": "papa",
         "image": "papa.jpg",
         "description": "Um jantar romântico em um restaurante perto dos Jardins dos Laranjais no Aventino pode incluir vinho e massas frescas com vista para a cidade de Roma.",
         "value": "260,00",
         "stock": "0",
-        "date": "-",
+        "date": "1º de outubro",
         "active": false,
         "gifter": "pessoal"
     },
@@ -158,7 +158,7 @@
         "id": "explorar",
         "image": "explorar.jpg",
         "description": "Um passeio romântico com a pessoa amada pelas ruas de paralelepípedos de Monti, com seus edifícios históricos e praças pitorescas, deve ser uma das coisas mais lindas de se fazer em Roma.",
-        "value": "-",
+        "value": "Sempre que possível",
         "stock": "0",
         "date": "9/9/2023",
         "active": false,

@@ -39,7 +39,7 @@
                             Obrigado ${json[i].gifter}!
                         </span>
                         <div class="gift__wrapper">
-                            <a href="/paris/${json[i].id}" class="button">Leia sobre o passeio</a>
+                            <a href="${json[i].active ? `/paris/${json[i].id}` : ''}" class="button ${json[i].active ? '' : 'inactive'}">${json[i].active ? 'Leia sobre o passeio' : 'Em construção...'}</a>
                         </div>
                     </li>
                 `;
@@ -61,7 +61,7 @@
                             Obrigado ${json[i].gifter}!
                         </span>
                         <div class="gift__wrapper">
-                            <a href="/roma/${json[i].id}" class="button">Leia sobre o passeio</a>
+                            <a href="${json[i].active ? `/paris/${json[i].id}` : ''}" class="button ${json[i].active ? '' : 'inactive'}">${json[i].active ? 'Leia sobre o passeio' : 'Em construção...'}</a>
                         </div>
                     </li>
                 `;

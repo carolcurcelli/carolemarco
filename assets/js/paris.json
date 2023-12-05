@@ -96,7 +96,7 @@
         "stock": "0",
         "date": "22 de setembro",
         "active": false,
-        "gifter": "Matheuzinho, Pieri, Amon, Julinho, Dave, Trompetinho, Stu, Quina"
+        "gifter": "Matheuzinho, Pieri, Amon, Julinho, Dave, Trompetinho, Stu e Quina"
     },
     {
         "name": "Docinhos franceses",
@@ -107,7 +107,7 @@
         "stock": "0",
         "date": "Sempre que possível!",
         "active": false,
-        "gifter": "Renato Giampietro, Turtle, Julia Araujo, Caio Bugorin, Blaze, Letrícia e Natália, Ananda, Alexandre Fadel, Dimitri"
+        "gifter": "Renato, Turtle, Ju Araujo, Caio Bugorin, Blaze, Letícia e Natália, Ananda, Alexandre Fadel e Dimitri"
     },
     {
         "name": "Louvre",
@@ -162,6 +162,6 @@
         "stock": "1",
         "date": "Sempre que possível!",
         "active": false,
-        "gifter": "Mário e Sofia, Letícia e Natália, Arthur Cavalheiro"
+        "gifter": "Mário e Sofia, Letícia e Natália e Arthur Cavalheiro"
     }
 ]
