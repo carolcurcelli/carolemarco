@@ -39,7 +39,7 @@
                             Obrigado ${json[i].gifter}!
                         </span>
                         <div class="gift__wrapper">
-                            <a href="/paris#${json[i].name.toLowerCase().split(' ').join('').replace(/[^a-z0-9]/gi, '')}" class="button">Leia sobre o passeio</a>
+                            <a href="/paris/${json[i].id}" class="button">Leia sobre o passeio</a>
                         </div>
                     </li>
                 `;
@@ -61,7 +61,7 @@
                             Obrigado ${json[i].gifter}!
                         </span>
                         <div class="gift__wrapper">
-                            <a href="/paris#${json[i].name.toLowerCase().split(' ').join('').replace(/[^a-z0-9]/gi, '')}" class="button">Leia sobre o passeio</a>
+                            <a href="/roma/${json[i].id}" class="button">Leia sobre o passeio</a>
                         </div>
                     </li>
                 `;

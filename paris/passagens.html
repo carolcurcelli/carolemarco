@@ -5,9 +5,10 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
 		<title>Marco & Carol | 09/09/2023</title>
 		<meta name="description" content="Marco & Carol | 09/09/2023">
-		<link rel="stylesheet" href="assets/css/reset.css">
-		<link rel="stylesheet" href="assets/css/base.css">
-		<link rel="stylesheet" href="assets/css/landingpage.css">
+		<link rel="stylesheet" href="../assets/css/reset.css">
+		<link rel="stylesheet" href="../assets/css/base.css">
+		<link rel="stylesheet" href="../assets/css/landingpage.css">
+		<link rel="stylesheet" href="../assets/css/gallery.css">
 		<link rel="canonical" href="https://marcoecarol.com.br/">
 		<link rel="icon" type="image/png" href="assets/img/heart.png">
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,14 +28,14 @@
         <nav id="navigation">
             <section class="container">
                 <a href="/">
-                    <img src="assets/img/logo.png" class="nav__logo" alt="">
+                    <img src="../assets/img/logo.png" class="nav__logo" alt="">
                 </a>
-                <img src="assets/img/menu.svg" id="menuOpener" alt="">
+                <img src="../assets/img/menu.svg" id="menuOpener" alt="">
                 <div id="menu__space"></div>
             </section>
         </nav>
         <div id="close">
-            <img src="assets/img/close.svg" alt="">
+            <img src="../assets/img/close.svg" alt="">
         </div>
         <script>
             fetch('navigation.html')
@@ -95,20 +96,27 @@
                 <p>
                     Dessa vez fui eu quem cai no sono, mesmo antes do avião estabilizar, e só acordei bem a tempo de ver os alpes suíços marcando a divisa da Itália com a terra dos relógios. O resto da viagem foi tranquilo e, sem mais delongas, estávamos na França!
                 </p>
-
-                <div class="showroom">
-                    <img src="/assets/img/honeymoon/paris/passagens1.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens2.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens3.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens4.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens5.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens6.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens7.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens8.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens9.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens10.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens11.jpg" alt="">
-                    <img src="/assets/img/honeymoon/paris/passagens12.jpg" alt="">
+                <div class="gallery-wrapper">
+                    <div class="post__gallery" id="gallery">
+                        <img src="../assets/img/honeymoon/paris/passagens1.jpg" data-src="../assets/img/honeymoon/paris/passagens1.jpg" data-name="A gente no aeroporto" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens4.jpg" data-src="../assets/img/honeymoon/paris/passagens4.jpg" data-name="Jogando Batalha Naval" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens5.jpg" data-src="../assets/img/honeymoon/paris/passagens5.jpg" data-name="Nós na Costa Africana" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens6.jpg" data-src="../assets/img/honeymoon/paris/passagens6.jpg" data-name="Vista da janela" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens7.jpg" data-src="../assets/img/honeymoon/paris/passagens7.jpg" data-name="Vista de trás do avião" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens8.jpg" data-src="../assets/img/honeymoon/paris/passagens8.jpg" data-name="Recém casado" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens9.jpg" data-src="../assets/img/honeymoon/paris/passagens9.jpg" data-name="Conexão Roma Paris" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens10.jpg" data-src="../assets/img/honeymoon/paris/passagens10.jpg" data-name="Esperando as malas" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens11.jpg" data-src="../assets/img/honeymoon/paris/passagens11.jpg" data-name="A privada alta" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens12.jpg" data-src="../assets/img/honeymoon/paris/passagens12.jpg" data-name="Marcão & Gorila" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens2.jpg" data-src="../assets/img/honeymoon/paris/passagens2.jpg" data-name="Creúsculo" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/passagens3.jpg" data-src="../assets/img/honeymoon/paris/passagens3.jpg" data-name="Jantar no avião" class="galleryPicture">
+                    </div>
+                    <div id="showRoom">
+                        <div class="showRoomHeader">
+                            <h4><span id="showRoomName"></span></h4>
+                        </div>
+                        <img src="/" alt="" id="showRoomPicture">
+                    </div>
                 </div>
             </div>
         </section>
@@ -121,6 +129,7 @@
                 document.querySelector('#footer__space').innerHTML = html;
               });
           </script>
-        <script src="assets/js/menu.js"></script>
+        <script src="../assets/js/menu.js"></script>
+        <script src="../assets/js/gallery.js"></script>
     </body>
 </html>

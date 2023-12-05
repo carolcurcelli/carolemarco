@@ -417,10 +417,6 @@ audio {
     margin-top: -.7em;
 }
 
-.--honey-moon h3 {
-    padding-top:4em;
-}
-
 #menuOpener {
     position: absolute;
     right: 1em;
@@ -452,6 +448,18 @@ audio {
     background-color: rgb(250 250 250 / 95%);
     position: fixed;
     left: 0;
+}
+
+.post__gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.post__gallery img {
+    margin: .1em;
 }
 
 @media(min-width: 750px) {

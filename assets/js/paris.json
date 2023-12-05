@@ -1,6 +1,7 @@
 [
     {
         "name": "Passagens",
+        "id": "passagens",
         "image": "passagens__italia.jpg",
         "description": "Passagens de avião para Marco e Carol de São Paulo para a cidade de Paris pela Air France, em cabines econômicas.",
         "value": "3.500,00",
@@ -10,6 +11,7 @@
     },
     {
         "name": "Hospedagem",
+        "id": "hotel",
         "image": "hospedagem__paris.jpg",
         "description": "Hospedagem para 7 noites em Paris no Best Western Hotel Victor Hugo. A hospedagem é de um quarto clássico com cama de casal e dá direito a café da manhã.",
         "value": "2.147,85",
@@ -19,6 +21,7 @@
     },
     {
         "name": "Transporte",
+        "id": "transporte",
         "image": "transporte.jpg",
         "description": "Translado privativo do Aeroporto Paris CDG ao hotel no centro de Paris.",
         "value": "1.654,00",
@@ -28,6 +31,7 @@
     },
     {
         "name": "Big Bus",
+        "id": "bigbus",
         "image": "bigbus.jpg",
         "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
         "value": "562,40",
@@ -37,6 +41,7 @@
     },
     {
         "name": "Piquenique",
+        "id": "piquenique",
         "image": "piquenique_paris.jpg",
         "description": "Um programa imperdível, cercado pela beleza dos jardins e parques, como o Jardim de Luxemburgo e o Champ de Mars, enquanto se delicia com os sabores dos queijos, pães, e vinhos.",
         "value": "400,00",
@@ -45,7 +50,18 @@
         "gifter": "Cadu e Aline"
     },
     {
+        "name": "Arco do Triunfo",
+        "id": "arcodotriunfo",
+        "image": "arco.jpg",
+        "description": "É possível apreciar a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
+        "value": "120,00",
+        "stock": "0",
+        "date": "20 de setembro",
+        "gifter": "Jaques e Ana"
+    },
+    {
         "name": "Torre Eiffel",
+        "id": "torreeiffel",
         "image": "torrei-eiffel.jpg",
         "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
         "value": "630,00",
@@ -55,6 +71,7 @@
     },
     {
         "name": "Passeio no Rio Sena",
+        "id": "riosena",
         "image": "rio_sena.jpg",
         "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
         "value": "200,00",
@@ -64,6 +81,7 @@
     },
     {
         "name": "Palácio de Versalhes",
+        "id": "palaciodeversalhes",
         "image": "versalhes.jpg",
         "description": "Poderemos visitar o suntuoso Palácio de Versalhes e admirar a arquitetura barroca, jardins exuberantes, espelhos d'água e rica decoração de ouro e mármore.",
         "value": "1.200,00",
@@ -73,6 +91,7 @@
     },
     {
         "name": "Docinhos franceses",
+        "id": "docinhos",
         "image": "docinhos.jpg",
         "description": "A França é famosa por sua pâtisserie e boulangerie, com delícias como croissants, macarons, eclairs, tarte tatin e pain au chocolat. Não queremos perder a chance de experimentar a culinária francesa.",
         "value": "120,00",
@@ -82,6 +101,7 @@
     },
     {
         "name": "Louvre",
+        "id": "louvre",
         "image": "louvre.jpg",
         "description": "Entrada prioritária para o Louvre, onde conheceremos um acervo de 35 mil obras expostas como Venus de Milo, A Vitória de Samothrace, O Escriba Sentado, Os Touros Alados e, obviamente, Mona Lisa.",
         "value": "670,50",
@@ -91,6 +111,7 @@
     },
     {
         "name": "Jardins de Monet",
+        "id": "jardinsdemonet",
         "image": "monet.jpg",
         "description": "Teremos 2 horas para descobrir a casa de Monet, o seu estúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
         "value": "1.000,00",
@@ -100,6 +121,7 @@
     },
     {
         "name": "Eurodisney",
+        "id": "eurodisney",
         "image": "disney.jpg",
         "description": "A EuroDisney é um parque temático que oferece uma variedade de atrações emocionantes. Com montanhas-russas, shows e desfiles de personagens famosos, é o grande sonho da Carol visitar.",
         "value": "2.100,00",
@@ -109,6 +131,7 @@
     },
     {
         "name": "Duolingo",
+        "id": "duolingo",
         "image": "duolingo.jpg",
         "description": "Carol está muito empenhada em aprendeu francês no Duolingo, e seu futuro esposo gostaria de pagar a mensalidade para que ela fique praticamente fluente até o dia da viagem.",
         "value": "100,00",
@@ -117,16 +140,8 @@
         "gifter": "pessoal"
     },
     {
-        "name": "Arco do Triunfo",
-        "image": "arco.jpg",
-        "description": "É possível apreciar a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
-        "value": "120,00",
-        "stock": "0",
-        "date": "-",
-        "gifter": "Jaques e Ana"
-    },
-    {
-        "name": "Um bom jantar",
+        "name": "Um bom almoço",
+        "id": "almoco",
         "image": "jantar_paris.jpg",
         "description": "Experimentar a alta gastronomia francesa em um restaurante estrelado, acompanhado de vinho e sobremesa, em um ambiente charmoso e romântico.",
         "value": "372,00",
