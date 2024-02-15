@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+		<title>Marco & Carol | 09/09/2023</title>
+		<meta name="description" content="Marco & Carol | 09/09/2023">
+		<link rel="stylesheet" href="../assets/css/reset.css">
+		<link rel="stylesheet" href="../assets/css/base.css">
+		<link rel="stylesheet" href="../assets/css/landingpage.css">
+		<link rel="stylesheet" href="../assets/css/gallery.css">
+		<link rel="canonical" href="https://marcoecarol.com.br/">
+		<link rel="icon" type="image/png" href="../assets/img/heart.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Homemade+Apple&display=swap" rel="stylesheet">
+		<meta property="og:locale" content="pt_BR">
+		<meta property="og:description" content="Marco & Carol | 09/09/2023">
+		<meta property="og:title" content="Marco & Carol | 09/09/2023">
+		<meta property="og:site_name" content="Marco & Carol">
+		<meta property="og:url" content="https://marcoecarol.com.br/">
+		<meta property="og:image" content="https://marcoecarol.com.br/assets/img/shareimage.png">
+		<meta property="og:image:alt" content="marcoecarol.com.br">
+		<meta property="og:type" content="website">
+		<meta name="twitter:card" content="summary_large_image">
+	</head>
+    <body>
+        <nav id="navigation">
+            <section class="container">
+                <a href="/">
+                    <img src="../assets/img/logo.png" class="nav__logo" alt="">
+                </a>
+                <img src="../assets/img/menu.svg" id="menuOpener" alt="">
+                <div id="menu__space"></div>
+            </section>
+        </nav>
+        <div id="close">
+            <img src="../assets/img/close.svg" alt="">
+        </div>
+        <script>
+            fetch('../navigation.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#menu__space').innerHTML = html;
+              });
+        </script>
+    <main>
+        <section class="hero --inner-page">
+            <div class="container --text --honey-moon">
+                <h2>Paris, França</h2>
+                <h3 id="passagens" class="destination"><span>Arco do Triunfo</span></h3>
+                <p>
+                    O Arco do Triunfo é notório por algumas coisas. Em primeiro lugar, aparece em Bayonetta 3, no qual você luta sobre o teto do monumento em uma batalha contra um lobisomem.  Além disso, é o mais conhecido dos arcos triunfais do mundo. Apesar de normalmente associarmos o nome Arco do Triunfo à estrutura francesa, ela é uma de muitas e emana da tradição romana de se construir um arco em comemoração à vitória em uma grande batalha como, por exemplo, contra um lobisomem.  
+                </p>
+
+                <p>
+                    O arco de Paris teve ordem de construção por Napoleão em 1806 para a comemoração de suas vitórias, mas só foi terminado em 1836, depois da restauração monárquica e durante o governo do rei Luís Felipe. Curiosamente, existe um arco do triunfo russo, o Arco de Narva, construído em 1814 justamente para comemorar a vitória sobre Napoleão, o que mostra que quem busca a guerra sempre vai arcar com as consequências. 
+                </p>
+
+                <p>
+                    De qualquer maneira, é difícil não ver o arco francês. Ele é circundado por avenidas e fica no coração da cidade. Com quarenta e cinquenta metros de altura sobre os quais se pode subir, preferimos observar de longe. Nossos horários eram apertados e, francamente, a vista da torre Eiffel seria mais legal. 
+                </p>
+
+                <p>
+                    Mas, conscientes de que o povo adora uma fotinho de lembrança, os franceses separaram pequenas vias para pedestres fotografarem o ponto turístico no meio das avenidas. Sim, o trânsito fica bem caótico. 
+                </p>
+
+                <p>
+                    O Arco é cercado por estações de metro, acessos subterrâneos e vendedores de crepe. Também tem várias pracinhas com bancos pra se sentar e sentir-se um intelectual num filme cult dum diretor francês.
+                </p>
+                
+                <div class="gallery-wrapper">
+                    <div class="post__gallery" id="gallery">
+                        <img src="../assets/img/honeymoon/paris/arcodotriunfo1.jpg" data-src="../assets/img/honeymoon/paris/arcodotriunfo1.jpg" data-name="Olha o Arco do Triunfo!" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/arcodotriunfo2.jpg" data-src="../assets/img/honeymoon/paris/arcodotriunfo2.jpg" data-name="Olha a gente no Arco do Triunfo!" class="galleryPicture">
+                    </div>
+                    <div id="showRoom">
+                        <div class="showRoomHeader">
+                            <h4><span id="showRoomName"></span></h4>
+                        </div>
+                        <img src="/" alt="" id="showRoomPicture">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer id="footer__space"></nav>
+        <script>
+            fetch('../footer.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#footer__space').innerHTML = html;
+              });
+          </script>
+        <script src="../assets/js/menu.js"></script>
+        <script src="../assets/js/gallery.js"></script>
+    </body>
+</html>

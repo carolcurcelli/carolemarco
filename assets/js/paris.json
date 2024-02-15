@@ -34,13 +34,13 @@
     },
     {
         "name": "Big Bus",
-        "id": "bigbus",
+        "id": "big-bus",
         "image": "bigbus.jpg",
         "description": "O circuito cobre o centro de Paris. Você pode subir e descer à vontade, onde desejar. Inclui Torre Eiffel, Ópera Garnier, Notre-Dame, Museu d'Orsay e Avenida Champs Elysées.",
         "value": "562,40",
         "stock": "0",
         "date": "20 de setembro",
-        "active": false,
+        "active": true,
         "gifter": "Sônia Ribeiro, Heleyder e Valmir"
     },
     {
