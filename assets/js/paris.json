@@ -56,13 +56,13 @@
     },
     {
         "name": "Arco do Triunfo",
-        "id": "arcodotriunfo",
+        "id": "arco-do-triunfo",
         "image": "arco.jpg",
         "description": "É possível apreciar a bela vista da cidade e o charme das ruas estreitas, enquanto desfruta de um bom vinho francês.",
         "value": "120,00",
         "stock": "0",
         "date": "20 de setembro",
-        "active": false,
+        "active": true,
         "gifter": "Jaques e Ana"
     },
     {
