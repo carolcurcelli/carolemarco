@@ -84,7 +84,7 @@
         "value": "200,00",
         "stock": "0",
         "date": "21 de setembro",
-        "active": false,
+        "active": true,
         "gifter": "pessoal"
     },
     {
@@ -95,18 +95,18 @@
         "value": "1.200,00",
         "stock": "0",
         "date": "22 de setembro",
-        "active": false,
+        "active": true,
         "gifter": "Matheuzinho, Pieri, Amon, Julinho, Dave, Trompetinho, Stu e Quina"
     },
     {
-        "name": "Docinhos franceses",
-        "id": "docinhos",
+        "name": "Docinhos e Jardim",
+        "id": "docinhos-e-jardim",
         "image": "docinhos.jpg",
         "description": "A França é famosa por sua pâtisserie e boulangerie, com delícias como croissants, macarons, eclairs, tarte tatin e pain au chocolat. Não queremos perder a chance de experimentar a culinária francesa.",
         "value": "120,00",
         "stock": "0",
         "date": "Sempre que possível!",
-        "active": false,
+        "active": true,
         "gifter": "Renato, Turtle, Ju Araujo, Caio Bugorin, Blaze, Letícia e Natália, Ananda, Alexandre Fadel e Dimitri"
     },
     {

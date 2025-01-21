@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+		<title>Marco & Carol | 09/09/2023</title>
+		<meta name="description" content="Marco & Carol | 09/09/2023">
+		<link rel="stylesheet" href="../assets/css/reset.css">
+		<link rel="stylesheet" href="../assets/css/base.css">
+		<link rel="stylesheet" href="../assets/css/landingpage.css">
+		<link rel="stylesheet" href="../assets/css/gallery.css">
+		<link rel="canonical" href="https://marcoecarol.com.br/">
+		<link rel="icon" type="image/png" href="../assets/img/heart.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Homemade+Apple&display=swap" rel="stylesheet">
+		<meta property="og:locale" content="pt_BR">
+		<meta property="og:description" content="Marco & Carol | 09/09/2023">
+		<meta property="og:title" content="Marco & Carol | 09/09/2023">
+		<meta property="og:site_name" content="Marco & Carol">
+		<meta property="og:url" content="https://marcoecarol.com.br/">
+		<meta property="og:image" content="https://marcoecarol.com.br/assets/img/shareimage.png">
+		<meta property="og:image:alt" content="marcoecarol.com.br">
+		<meta property="og:type" content="website">
+		<meta name="twitter:card" content="summary_large_image">
+	</head>
+    <body>
+        <nav id="navigation">
+            <section class="container">
+                <a href="/">
+                    <img src="../assets/img/logo.png" class="nav__logo" alt="">
+                </a>
+                <img src="../assets/img/menu.svg" id="menuOpener" alt="">
+                <div id="menu__space"></div>
+            </section>
+        </nav>
+        <div id="close">
+            <img src="../assets/img/close.svg" alt="">
+        </div>
+        <script>
+            fetch('../navigation.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#menu__space').innerHTML = html;
+              });
+        </script>
+    <main>
+        <section class="hero --inner-page">
+            <div class="container --text --honey-moon">
+                <h2>Paris, França</h2>
+                <h3 id="passagens" class="destination"><span>Palácio de Versalhes</span></h3>
+                <p>
+                    Quando se fala português, 99% das vezes que dizem “gosto de macarrón” é só uma maneira mooquense de dizer que gosta do almoço de massa da nona. Às vezes, porém, se refere aos macarons franceses. Se trata de um docinho muito leve à base de amêndoas e, ocasionalmente, alguma essência de sabor, geralmente de frutas. Enfim, é um dos docinhos nacionais da França e não tinha como não experimentar um por lá.
+                </p>
+
+                <p>
+                    E, bem, talvez inspirados pela opulência dos Bourbon, pegamos uma caixinha da Ladurée, uma doceria do século XIX especializada em macarons que tinha um quiosque logo na saída de Versalhes. Eram seis sabores, doce de leite, morango, limão, um padrão, abacaxi e um que, honestamente, não me lembro e o fato dele ser azul também não auxilia minha memória.
+                </p>
+
+                <p>
+                    Sentamos num canto do palácio e comemos lentamente um por um antes de seguirmos para visitar os jardins de Versalhes. Ele se separa da construção por escadas enormes que seguem pelos fundos e pelas laterais do palácio, as quais são uma delícia de sentar pra apreciar a vista, e guardam um jardim que você só imaginaria ver naquelas produções de época, com labirintos que escondem estátuas de divindades gregas e fontes dançantes que obedecem a melodia de uma música orquestrada.  
+                </p>
+
+                <p>
+                    O caminho, além dos meandros misteriosos e estátuas antigas, tinha alguns triângulos com ilustrações curiosas de versões caricatas de profissões, como o astrólogo sendo representado por um homem agarrado pelas doze constelações do zodíaco, ou o relojoeiro vestindo uma armadura de relógios que ficaria bem maneira num jrpg.  
+                </p>
+
+                <p>
+                    Passamos numa lojinha de lembranças onde vimos mangás de Maria Antonieta e Napoleão, além de um sem número de cacarecos, cerâmicas e brinquedos que remetiam ao parque e até compramos marca-páginas ilustrados, que não tivemos coragem de tirar da embalagem.  Esperando a hora do ônibus, conhecemos duas turistas australianas, mãe e filha, que vinham da (e juramos que isso é verdade, pode ver na Wikipédia) Kangoroo Island! Elas também acharam que o palácio era opulente até demais, mas eram apaixonadas por turistar, especialmente pelo marido da filha ser italiano. Como boa senhorinha, ela é uma usuária assídua do Facebook, onde a adicionamos e mantemos contato até hoje.
+                </p>
+                
+                <p>
+                    Fotos em breve!
+                </p>
+                
+            </div>
+        </section>
+    </main>
+    <footer id="footer__space"></nav>
+        <script>
+            fetch('../footer.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#footer__space').innerHTML = html;
+              });
+          </script>
+        <script src="../assets/js/menu.js"></script>
+        <script src="../assets/js/gallery.js"></script>
+    </body>
+</html>

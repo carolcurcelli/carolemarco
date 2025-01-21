@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+		<title>Marco & Carol | 09/09/2023</title>
+		<meta name="description" content="Marco & Carol | 09/09/2023">
+		<link rel="stylesheet" href="../assets/css/reset.css">
+		<link rel="stylesheet" href="../assets/css/base.css">
+		<link rel="stylesheet" href="../assets/css/landingpage.css">
+		<link rel="stylesheet" href="../assets/css/gallery.css">
+		<link rel="canonical" href="https://marcoecarol.com.br/">
+		<link rel="icon" type="image/png" href="../assets/img/heart.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Homemade+Apple&display=swap" rel="stylesheet">
+		<meta property="og:locale" content="pt_BR">
+		<meta property="og:description" content="Marco & Carol | 09/09/2023">
+		<meta property="og:title" content="Marco & Carol | 09/09/2023">
+		<meta property="og:site_name" content="Marco & Carol">
+		<meta property="og:url" content="https://marcoecarol.com.br/">
+		<meta property="og:image" content="https://marcoecarol.com.br/assets/img/shareimage.png">
+		<meta property="og:image:alt" content="marcoecarol.com.br">
+		<meta property="og:type" content="website">
+		<meta name="twitter:card" content="summary_large_image">
+	</head>
+    <body>
+        <nav id="navigation">
+            <section class="container">
+                <a href="/">
+                    <img src="../assets/img/logo.png" class="nav__logo" alt="">
+                </a>
+                <img src="../assets/img/menu.svg" id="menuOpener" alt="">
+                <div id="menu__space"></div>
+            </section>
+        </nav>
+        <div id="close">
+            <img src="../assets/img/close.svg" alt="">
+        </div>
+        <script>
+            fetch('../navigation.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#menu__space').innerHTML = html;
+              });
+        </script>
+    <main>
+        <section class="hero --inner-page">
+            <div class="container --text --honey-moon">
+                <h2>Paris, França</h2>
+                <h3 id="passagens" class="destination"><span>Rio Sena</span></h3>
+                <p>
+                    Logo debaixo da ponte que abre caminho à Torre Eiffel se pode ver o Sena circundando a ilê-de-france, que consiste no centro histórico da capital francesa. O Rio é limpíssimo e é usado pra todo tipo de coisa. É normal ver barcos amarrados nas margens onde algum ricasso pode se esconder esperando a preclusão dum processo, ou um restaurante flutuante que serve a alta sociedade como num romance da Agatha Christie. Para nós, bastava um barco de passeio que não chacoalhasse demais.
+                </p>
+
+                <p>
+                    A Carol nunca gostou de passear de barcos. Se um dia você tiver chance, pergunte pra ela sobre a experiência que tivemos na canoa em Avaré. Ainda assim, é difícil passar uma chance dessas. O Sena realmente é muito bonito e te dá uma perspectiva diferente da cidade. Sentamos na parte de cima do barco, num banco de madeira e perto da proa, com o sol ainda alto e um clima ameno. Rio acima, cruzávamos com outros navios e a Carol sempre puxava um aceno, que costumava ser respondido pelos navegantes da outra embarcação, a qual era retornada com uma salva de tchauzinhos e assobios do nosso lado. Isso só não parecia ser o caso com as embarcações da elite parisiense, que faziam sozinhos jus à fama da população da cidade.  
+                </p>
+
+                <p>
+                    O caminho nos reservou varias surpresas. Vimos um mural escrito “EM YRRAM” que, parando pra pensar, era só “MARRY ME” ao contrário. Depois, nos deparamos com a bandeira do Brasil hasteada no teto dum edifício, possivelmente nossa embaixada em solo francês. Frequentemente passávamos sob as múltiplas pontes do Sena, sempre decoradas com detalhes peculiares de cada uma. Cabeças de mármore com expressões macabras e tritões com detalhes dourados refletindo o por do sol que se aproximava eram algumas das atrações que a arquitetura local nos reservava.
+                </p>
+
+                <p>
+                    Nas margens, víamos patos e algumas embarcações peculiares, como uma que dividia uma bandeira pirata com a drapeau francesa. Também pudemos observar Notre Dame, ainda fechada para restauração, com seus guindastes e trabalhadores a todo o vapor. A esse ponto, chegamos ao limite do passeio e a embarcação deu um giro de 180 graus. Com isso, um frio nórdico se instalou ao nosso redor. Até então, acho que nunca valorizei de verdade o calor do sol. Mesmo agasalhado tremia igual vara verde. Vi o Bateau Rouge acender as luzes vermelhas e quase torci que fosse uma fogueira flutuante. Por outro lado, se a noite trazia consigo o frio congelante, também nos abençoava com a vista noturna de Paris. Não chamam de “cidade luz” por nada. Os tons de amarelo, refletidos na superfície do Sena dão àquele azul noturno um charme indescritível. Tudo sempre vigiado pela Torre Eiffel, que deve gastar uma energia equivalente à cidade de Porto Ferreira pra se manter acessa toda noite, mas essa é uma exuberância que todo mundo deveria ver ao menos uma vez na vida. 
+                </p>
+                
+                <div class="gallery-wrapper">
+                    <div class="post__gallery" id="gallery">
+                        <img src="../assets/img/honeymoon/paris/riosena1.jpg" data-src="../assets/img/honeymoon/paris/riosena1.jpg" data-name="Vista da Torre Eiffel do Rio!" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena2.jpg" data-src="../assets/img/honeymoon/paris/riosena2.jpg" data-name="Outros barcos" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena3.jpg" data-src="../assets/img/honeymoon/paris/riosena3.jpg" data-name="Adornos nas pontes que atravessam o rio" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena4.jpg" data-src="../assets/img/honeymoon/paris/riosena4.jpg" data-name="Mais um barquinho" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena5.jpg" data-src="../assets/img/honeymoon/paris/riosena5.jpg" data-name="Pato no rio!" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena6.jpg" data-src="../assets/img/honeymoon/paris/riosena6.jpg" data-name="Vista pra Notre Dame, que estava em reforma" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena7.jpg" data-src="../assets/img/honeymoon/paris/riosena7.jpg" data-name="O rio ao anoitecer" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena8.jpg" data-src="../assets/img/honeymoon/paris/riosena8.jpg" data-name="Olha a Torre Eiffel!" class="galleryPicture">
+                        <img src="../assets/img/honeymoon/paris/riosena9.jpg" data-src="../assets/img/honeymoon/paris/riosena9.jpg" data-name="Olha a Torre Eiffel de novo!" class="galleryPicture">
+                    </div>
+                    <div id="showRoom">
+                        <div class="showRoomHeader">
+                            <h4><span id="showRoomName"></span></h4>
+                        </div>
+                        <img src="/" alt="" id="showRoomPicture">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer id="footer__space"></nav>
+        <script>
+            fetch('../footer.html')
+              .then(response => response.text())
+              .then(html => {
+                document.querySelector('#footer__space').innerHTML = html;
+              });
+          </script>
+        <script src="../assets/js/menu.js"></script>
+        <script src="../assets/js/gallery.js"></script>
+    </body>
+</html>
