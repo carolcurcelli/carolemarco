@@ -34,7 +34,7 @@
     },
     {
         "name": "Hop-on, Hop-off",
-        "id": "hoponhopoff",
+        "id": "hop-on-hop-off",
         "image": "hoponhopoff.jpg",
         "description": "Passeio pelos pontos turísticos de Roma em um ônibus hop-on-hop-off com áudio-guia multilíngue. Podemos escolher onde entrar e sair livremente, descobrindo as maravilhas de Roma no nosso próprio ritmo.",
         "value": "346,00",
@@ -155,7 +155,7 @@
     },
     {
         "name": "Fontana di Trevi",
-        "id": "fontanaditrevi",
+        "id": "fontana-di-trevi",
         "image": "fontana.jpg",
         "description": "Um passeio noturno guiado na Fontana di Trevi em Roma é uma experiência inesquecível. As luzes acesas realçam a beleza da fonte, tornando-a ainda mais impressionante à noite. Podemos jogar uma moedinha!",
         "value": "600,00",

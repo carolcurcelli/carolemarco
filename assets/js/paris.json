@@ -67,7 +67,7 @@
     },
     {
         "name": "Torre Eiffel",
-        "id": "torreeiffel",
+        "id": "torre-eiffel",
         "image": "torrei-eiffel.jpg",
         "description": "Entrada prioritária para a Torre Eiffel, com acesso ao 1º e 2º andar. Desfrutaremos de belas vistas como Notre Dame, Sacré-Cœu, Arco do Triunfo e outros a 115m de altura.",
         "value": "630,00",
@@ -78,7 +78,7 @@
     },
     {
         "name": "Passeio no Rio Sena",
-        "id": "riosena",
+        "id": "rio-sena",
         "image": "rio_sena.jpg",
         "description": "Passeio relaxante de barco para ver pontos turísticos como Torre Eiffel, Museu do Louvre e Catedral de Notre-Dame.",
         "value": "200,00",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Palácio de Versalhes",
-        "id": "palaciodeversalhes",
+        "id": "palacio-de-versalhes",
         "image": "versalhes.jpg",
         "description": "Poderemos visitar o suntuoso Palácio de Versalhes e admirar a arquitetura barroca, jardins exuberantes, espelhos d'água e rica decoração de ouro e mármore.",
         "value": "1.200,00",
@@ -122,7 +122,7 @@
     },
     {
         "name": "Jardins de Monet",
-        "id": "jardinsdemonet",
+        "id": "jardins-de-monet",
         "image": "monet.jpg",
         "description": "Teremos 2 horas para descobrir a casa de Monet, o seu estúdio e os seus jardins de mil cores, que inspiraram diversos trabalhos do artista.",
         "value": "1.000,00",
