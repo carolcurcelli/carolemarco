@@ -73,8 +73,8 @@
         "value": "630,00",
         "stock": "0",
         "date": "21 de setembro",
-        "active": false,
-        "gifter": "Sandra Passos (Mãe)"
+        "active": true,
+        "gifter": "Mãe (do Noivo)"
     },
     {
         "name": "Passeio no Rio Sena",
